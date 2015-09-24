@@ -400,41 +400,13 @@ sub generateSlackMessage
 	my $victimURL = 'https://zkillboard.com/character/'.$victimID;
 
 	my $msg;
-	#$msg = $msg.$numberAttackers;
-
-	# number of pilots
-	#if ($numberAttackers > 1)
-	#{
-	#	$msg = $msg.' pilots';
-	#}
-	#else
-	#{
-#		$msg = $msg.' pilot';
-	#}
-
-	# corp
-	#if ($victimAllyID ne $alliance_ID )
-	#{
-	#	$msg = $msg.' from Exit-Strategy killed ';
-	#}
-	#else
-	#{
-	#	$msg = $msg.' killed ';
-	#}
 
 	#ship name
 	my $shipName = getShipName($victimShip);
 	my $solarSystem = getSystemName($solarSystemID);
 	if ($victimAlly eq "") { $victimAlly = "N/A"; }
 	if ($victimName eq "") { $victimName = "N/A"; }
-	#if ($shipName =~ /^[aeiouAEIOU]/)
-	#{
-		#$msg = $msg.'an '.$shipName;
-	#}
-	#else
-	#{
-	#	$msg = $msg.'a '.$shipName;
-	#}
+	
 	if ($victimID == 0)
 	{
 		$msg = "$victimCorp - $shipName. Killmail value : $lossValue ISK (<$killURL|Link>)";
@@ -552,8 +524,8 @@ sub sendToSlack
 	else
 	{
 		print "Couldn't send message to Slack\n";
-	    print "HTTP POST error code: ", $resp->code, "\n";
-	    print "HTTP POST error message: ", $resp->message, "\n";
+		print "HTTP POST error code: ", $resp->code, "\n";
+		print "HTTP POST error message: ", $resp->message, "\n";
 	}
 }
 

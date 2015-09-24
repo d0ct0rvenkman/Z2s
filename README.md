@@ -13,4 +13,8 @@ $tracked_alliances : alliance IDs for any alliances whose kills you would like t
 $tracked_corporations : corporation IDs for any corporations whose kills you would like to see
 $tracked_characters : character IDs for any characters whose kills you would like to see
 
-
+# To Do
+- Fix potential duplicate kill posts from separate API calls
+- Break out configurable settings into a configuration file instead of editing the script directly
+- Make script capable of using an arbitrary config file so multiple copies of the script with different configurations can be run easily
+- Profit?

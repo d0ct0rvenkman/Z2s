@@ -17,4 +17,5 @@ $tracked_characters : character IDs for any characters whose kills you would lik
 - Fix potential duplicate kill posts from separate API calls
 - Break out configurable settings into a configuration file instead of editing the script directly
 - Make script capable of using an arbitrary config file so multiple copies of the script with different configurations can be run easily
+- Limit the number of "Bros Involved" shown in kill display to keep messages from stretching for miles. (slack may already do this automatically.)
 - Profit?

@@ -1,11 +1,16 @@
 # Z2s
 Zkillboard to Slack
 
-Z2s is a small perl script which will check regularly your alliance killboard by using Zkillboard API.
+Z2s is a small perl script which will regularly check and post killmails for specified criteria by using Zkillboard API. It can follow arbitrary api endpoints, and also give slightly more in-depth informatioin  for alliances, corporations, or characters that are specifically tracked.
 
 You will want to edit several variables before starting :
 
-$alliance_ID : put your alliance ID 
 $slackURL : You need to put there the incoming webhook URL from Slack. You can create one on Slack in the Integrations menu (you need to be admin for it)
 $slack_Channel : The channel where you want the bot to post your stuff
-$timeout : The time between two checks
+$slack_Username : If you do not like rampaging killbots in your channel, alter this to something more to your liking. 
+@api_endpoints : any interesting API endpoints you want to follow
+$tracked_alliances : alliance IDs for any alliances whose kills you would like to see
+$tracked_corporations : corporation IDs for any corporations whose kills you would like to see
+$tracked_characters : character IDs for any characters whose kills you would like to see
+
+

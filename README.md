@@ -1,7 +1,7 @@
 # Z2s
 Zkillboard to Slack
 
-Z2s is a small perl script which will regularly check and post killmails for specified criteria by using Zkillboard API. It can follow arbitrary api endpoints, and also give slightly more in-depth informatioin  for alliances, corporations, or characters that are specifically tracked.
+Z2s is a small perl script which will regularly check and post killmails for specified criteria by using Zkillboard API. It can follow arbitrary api endpoints, and also give slightly more in-depth information  for alliances, corporations, or characters that are specifically tracked.
 
 You will want to edit several variables before starting :
 

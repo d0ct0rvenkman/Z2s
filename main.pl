@@ -14,6 +14,7 @@ my $alliance_LastKillId = 49150241;
 my $kill_Endpoint = 'https://zkillboard.com/api/killID';
 my $kill_ID = -1;
 my @kill_Options = ("no-items");
+my $kill_seen = ();
 
 # Static Data files
 my %listOfShips = ();
@@ -168,6 +169,7 @@ if ( -e $lastkillidfile )
 my $timeout = 300;
 while (1) {
     my $start = time;
+    $kill_seen = ();
     print "checking for new mails...\n";
     checkForNewKills();
     my $end = time;
@@ -276,11 +278,23 @@ sub analyzeJsonAlly
 		$killId = $hUnref{'killID'};
 		$killDate = $hUnref{'killTime'};
 		$killValue = $hUnref{'zkb'}{'totalValue'};
+		my $tmpUrl;
+		my $killJson;
 
-		my $tmpUrl = buildUrlKill($killId);
-		my $killJson = queryZkillboard($tmpUrl);
-		$alliance_LastKillId = max($killId,$alliance_LastKillId);
-		analyzeJsonKill($killJson);
+		if (defined($kill_seen->{$killId}))
+		{
+			print "  Kill " . $killId . " has already been seen. Skipping.\n";
+		}
+		else
+		{
+			$tmpUrl = buildUrlKill($killId);
+			$killJson = queryZkillboard($tmpUrl);
+			$alliance_LastKillId = max($killId,$alliance_LastKillId);
+			analyzeJsonKill($killJson);
+			$kill_seen->{$killId} = 1;
+		}
+
+
 	}
 
 	open(my $FILE, ">", $lastkillidfile);

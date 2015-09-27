@@ -5,7 +5,7 @@ Z2s is a small perl script which will regularly check and post killmails for spe
 
 You will want to edit several variables before starting :
 
-$slackURL : You need to put there the incoming webhook URL from Slack. You can create one on Slack in the Integrations menu (you need to be admin for it)
+- $slackURL : You need to put there the incoming webhook URL from Slack. You can create one on Slack in the Integrations menu (you need to be admin for it)
 - $slack_Channel : The channel where you want the bot to post your stuff
 - $slack_Username : If you do not like rampaging killbots in your channel, alter this to something more to your liking. 
 - @api_endpoints : any interesting API endpoints you want to follow

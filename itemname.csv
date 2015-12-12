@@ -1,5 +1,4 @@
-	
-0	#System
+﻿0           #System
 2	Corporation
 3	Region
 4	Constellation
@@ -153,7 +152,7 @@
 400	Small Shield Booster II
 405	Micro Remote Shield Booster I
 406	Micro Remote Shield Booster II
-421	Basic Capacitor Recharger
+421	'Basic' Capacitor Recharger
 434	1MN Microwarpdrive I
 438	1MN Afterburner II
 439	1MN Afterburner I
@@ -198,9 +197,9 @@
 499	Light Missile Launcher I
 501	Heavy Missile Launcher I
 503	Torpedo Launcher I
-506	Basic Capacitor Power Relay
+506	'Basic' Capacitor Power Relay
 508	Basic Shield Flux Coil
-509	Basic Capacitor Flux Coil
+509	'Basic' Capacitor Flux Coil
 518	Basic Gyrostabilizer
 519	Gyrostabilizer II
 520	Gyrostabilizer I
@@ -542,7 +541,7 @@
 1186	Small Capacitor Battery I Blueprint
 1190	Small Remote Capacitor Transmitter II
 1191	Small Remote Capacitor Transmitter II Blueprint
-1192	Basic Overdrive Injector System
+1192	'Basic' Overdrive Injector System
 1193	Basic EM Plating
 1194	Amarr Sentry Gun
 1195	Cap Recharger I
@@ -576,8 +575,8 @@
 1233	Polaris Enigma Frigate
 1236	Overdrive Injector System II
 1237	Overdrive Injector System II Blueprint
-1240	Basic Reinforced Bulkheads
-1242	Basic Nanofiber Internal Structure
+1240	'Basic' Reinforced Bulkheads
+1242	'Basic' Nanofiber Internal Structure
 1244	Overdrive Injector System I
 1245	Overdrive Injector System I Blueprint
 1246	Capacitor Flux Coil I
@@ -613,7 +612,7 @@
 1305	Adaptive Nano Plating I Blueprint
 1306	Adaptive Nano Plating II
 1307	Adaptive Nano Plating II Blueprint
-1315	Basic Expanded Cargohold
+1315	'Basic' Expanded Cargohold
 1317	Expanded Cargohold I
 1318	Expanded Cargohold I Blueprint
 1319	Expanded Cargohold II
@@ -641,11 +640,11 @@
 1384	CharacterJinMei
 1385	CharacterKhanid
 1386	CharacterVherokior
-1401	Basic Inertia Stabilizers
-1403	Inertia Stabilizers I
-1404	Inertia Stabilizers I Blueprint
-1405	Inertia Stabilizers II
-1406	Inertia Stabilizers II Blueprint
+1401	'Basic' Inertial Stabilizers
+1403	Inertial Stabilizers I
+1404	Inertial Stabilizers I Blueprint
+1405	Inertial Stabilizers II
+1406	Inertial Stabilizers II Blueprint
 1419	Basic Shield Power Relay
 1422	Shield Power Relay II
 1423	Shield Power Relay II Blueprint
@@ -658,7 +657,7 @@
 1529	Caldari Administrative Station
 1530	Caldari Research Station
 1531	Caldari Trading Station
-1537	Basic Power Diagnostic System
+1537	'Basic' Power Diagnostic System
 1539	Power Diagnostic System I
 1540	Power Diagnostic System I Blueprint
 1541	Power Diagnostic System II
@@ -821,7 +820,7 @@
 1973	Sensor Booster I
 1977	Tracking Computer I
 1978	Tracking Computer II
-1982	Basic LADAR Backup Array
+1982	Basic Ladar Backup Array
 1983	Basic Gravimetric Backup Array
 1984	Basic Magnetometric Backup Array
 1985	Basic Multi Sensor Backup Array
@@ -1026,7 +1025,7 @@
 2226	Sisters of Eve Negotiator
 2232	Life pod
 2233	Customs Office
-2234	Sansha's Battletower LCO
+2234	Sansha's Battletower
 2239	Oura Madusaari
 2240	Harroken Ikero
 2244	Fajah Ateshi
@@ -1048,8 +1047,8 @@
 2280	Link
 2281	Adaptive Invulnerability Field II
 2282	Adaptive Invulnerability Field II Blueprint
-2284	LCO Megathron (Roden)
-2285	LCO Dominix (Roden)
+2284	Megathron (Roden)
+2285	Dominix (Roden)
 2286	Planktic Colonies
 2287	Complex Organisms
 2288	Carbon Compounds
@@ -1201,7 +1200,7 @@
 2465	Hornet I Blueprint
 2466	Hornet II
 2467	Hornet II Blueprint
-2468	LCO Drone Structure II
+2468	Fortified Drone Structure II
 2469	Lava Basic Industry Facility
 2470	Lava Advanced Industry Facility
 2471	Plasma Basic Industry Facility
@@ -1299,8 +1298,8 @@
 2580	Gravimetric Backup Array II
 2581	Standard Temperate Command Center
 2582	Improved Temperate Command Center
-2583	LADAR Backup Array I
-2584	LADAR Backup Array II
+2583	Ladar Backup Array I
+2584	Ladar Backup Array II
 2585	Advanced Temperate Command Center
 2586	Elite Temperate Command Center
 2587	Magnetometric Backup Array I
@@ -1456,7 +1455,7 @@
 2753	Advanced Small Ship Assembly Array Blueprint
 2754	Ammunition Assembly Array Blueprint
 2755	Ballistic Deflection Array Blueprint
-2756	Capital Ship Assembly Array Blueprint
+2756	Supercapital Ship Assembly Array Blueprint
 2757	Explosion Dampening Array Blueprint
 2758	Component Assembly Array Blueprint
 2759	Heat Dissipation Array Blueprint
@@ -1473,7 +1472,7 @@
 2770	Rapid Equipment Assembly Array Blueprint
 2771	Small Ship Assembly Array Blueprint
 2772	Subsystem Assembly Array Blueprint
-2773	X-Large Ship Assembly Array Blueprint
+2773	Capital Ship Assembly Array Blueprint
 2774	Amarr Control Tower Blueprint
 2775	Amarr Control Tower Medium Blueprint
 2776	Amarr Control Tower Small Blueprint
@@ -1541,7 +1540,7 @@
 2839	Cerebral Accelerator Blueprint
 2840	Hasaziras Assa's Scorpion
 2841	Angel Officer's Quarters
-2842	LCO Serpentis Station
+2842	Serpentis Station
 2845	Outuni Mesen
 2846	Domination Excavator
 2847	True Sansha Foreman
@@ -1597,7 +1596,7 @@
 2899	Custom Circuitry
 2900	Recovered Data Core
 2901	Science Vessel Wreck
-2902	LCS Acceleration Gate
+2902	Deactivated Acceleration Gate
 2903	Manager's Station
 2904	Quantum Entanglement
 2905	250mm Light Artillery Cannon II
@@ -1617,8 +1616,8 @@
 2921	650mm Artillery Cannon II
 2922	650mm Artillery Cannon II Blueprint
 2926	Serpentis Slave Transport
-2927	LCO Deadspace Particle Accelerator
-2928	LCO Asteroid Colony
+2927	Fortified Deadspace Particle Accelerator
+2928	Fortified Asteroid Colony
 2929	800mm Repeating Cannon II
 2930	Crate of Special Forces Weapons and Equipment
 2931	Mara Paleo
@@ -1733,10 +1732,10 @@
 3049	Mega Beam Laser II
 3050	Mega Beam Laser II Blueprint
 3054	Sansha Territorial Reclamation Outpost
-3056	LCO Sansha Deadspace Outpost I
+3056	Fortified Sansha Deadspace Outpost I
 3057	Mega Pulse Laser II
 3058	Mega Pulse Laser II Blueprint
-3059	LCO Sansha Starbase Control Tower
+3059	Sansha Starbase Control Tower
 3060	Gas Extractor Control Unit
 3061	Ice Extractor Control Unit
 3062	Lava Extractor Control Unit
@@ -2064,17 +2063,17 @@
 3392	Mechanics
 3393	Repair Systems
 3394	Hull Upgrades
-3395	Frigate Construction
-3396	Industrial Construction
-3397	Cruiser Construction
-3398	Battleship Construction
+3395	Advanced Small Ship Construction
+3396	Advanced Industrial Ship Construction
+3397	Advanced Medium Ship Construction
+3398	Advanced Large Ship Construction
 3400	Outpost Construction
 3402	Science
 3403	Research
 3404	Genetic Engineering
 3405	Biology
 3406	Laboratory Operation
-3408	Reverse Engineering
+3408	Sleeper Encryption Methods
 3409	Metallurgy
 3410	Astrogeology
 3411	Cybernetics
@@ -2168,7 +2167,7 @@
 3506	Central Control Nexus
 3507	Tactical Response Transmitter
 3508	Sansha Control Relay
-3509	LCO Sansha Logistics Control Array
+3509	Sansha Logistics Control Array
 3510	Sansha Remote Logistics Station
 3511	Gang booster test NPC
 3512	Focused Medium Pulse Laser II
@@ -2250,7 +2249,7 @@
 3588	Small Remote Shield Booster II
 3589	Small Remote Shield Booster II Blueprint
 3590	Mangled Sansha Data Analyzer Blueprint
-3591	LCS Angel Control Tower
+3591	Angel Control Tower
 3592	Caldari Wyvern Carrier 
 3593	Caldari Phoenix Dreadnough
 3594	Caldari Leviathan Titan
@@ -2279,7 +2278,7 @@
 3617	Capital Remote Shield Booster I Blueprint
 3618	Capital Remote Shield Booster II
 3619	Capital Remote Shield Booster II Blueprint
-3620	LCO Starbase Shield Generator
+3620	Fortified Starbase Shield Generator
 3624	Holding Cell
 3625	Rohan Shadrak's Bellicose
 3626	Sansha Station Ruins
@@ -2540,7 +2539,7 @@
 3915	Micro EMP Smartbomb II
 3916	Caldari Planetary Interaction
 3919	Caldari Corporation Recruitment
-3920	Amarr Industrial Station LCO
+3920	Fortified Amarr Industrial Station
 3921	Pirate Saboteur
 3922	Hardware
 3923	Clones
@@ -2565,12 +2564,12 @@
 3948	Medium Plasma Smartbomb I Blueprint
 3949	Medium Plasma Smartbomb II
 3950	Medium Plasma Smartbomb II Blueprint
-3952	LCO Archon
+3952	Fortified Archon
 3953	Medium EMP Smartbomb I
 3954	Medium EMP Smartbomb I Blueprint
 3955	Medium EMP Smartbomb II
 3956	Medium EMP Smartbomb II Blueprint
-3957	LCO Serpentis Stronghold
+3957	Serpentis Stronghold
 3958	GDN-9 "Nightstalker" Combat Goggles
 3959	Criminal Saboteur
 3960	Bandit Saboteur
@@ -2579,7 +2578,7 @@
 3963	Customs Office Gantry Blueprint
 3964	Orbital Command Center
 3966	Men's 'Precision' Boots
-3967	Gallente Station 7 LCO
+3967	Fortified Gallente Station 7
 3970	Federation Administrative Outpost
 3974	Minmatar Service Outpost Structure
 3975	Women's 'Structure' Dress (navy)
@@ -2611,7 +2610,7 @@
 4004	Women's 'Mystrioso' Boots
 4005	Scorpion Ishukone Watch
 4006	Scorpion Ishukone Watch Blueprint
-4007	Minmatar Station LCO
+4007	Fortified Minmatar Station
 4008	Men's 'Lockstep' Boots
 4009	Looking Glass Monocle Interface (right/gold)
 4010	Domination Grigori
@@ -2687,8 +2686,8 @@
 4096	Hair_Stubble_01
 4097	Men's 'Field Marshal' Coat
 4098	Men's 'Esquire' Coat
-4099	Amarr Factory Outpost LCO
-4100	Caldari Research Outpost LCO
+4099	Amarr Factory Outpost
+4100	Caldari Research Outpost
 4101	Women's 'Structure' Skirt (black/white)
 4102	Women's 'Structure' Skirt (blue)
 4103	Women's 'Structure' Skirt (graphite)
@@ -2989,7 +2988,7 @@
 4427	Secondary Parallel Link-Capacitor
 4431	F-b10 Nominal Capacitor Regenerator
 4433	Barton Reactor Capacitor Recharger I
-4435	Eutectic Capacitor Charge Array
+4435	Eutectic Compact Cap Recharger
 4437	Fixed Parallel Link-Capacitor I
 4471	5W Infectious Power System Malfunction
 4473	Small Rudimentary Energy Destabilizer I
@@ -3044,7 +3043,7 @@
 5053	Heavy Tapered Capacitor Infusion I
 5087	Small Partial E95a Remote Capacitor Transmitter
 5089	Small Murky Remote Capacitor Transmitter
-5091	'Regard' Remote Capacitor Transmitter
+5091	Small 'Regard' Remote Capacitor Transmitter
 5093	Small Asymmetric Remote Capacitor Transmitter
 5135	E5 Prototype Energy Vampire
 5137	Small 'Knave' Energy Drain
@@ -3062,10 +3061,10 @@
 5233	Single Diode Basic Mining Laser
 5235	Xenon Basic Drilling Beam
 5237	Rubin Basic Particle Bore Stream
-5239	EP-S Gaussian Excavation Pulse
+5239	EP-S Gaussian Scoped Mining Laser
 5241	Dual Diode Mining Laser I
 5243	XeCl Drilling Beam I
-5245	Cu Vapor Particle Bore Stream I
+5245	Particle Bore Compact Mining Laser
 5279	F-23 Reciprocal Remote Sensor Booster
 5280	Connected Remote Sensor Booster
 5281	Coadjunct Linked Remote Sensor Booster
@@ -3101,7 +3100,7 @@
 5487	Mark I Modified SS Expanded Cargo
 5489	Local Hull Conversion Expanded Cargo I
 5491	Beta Hull Mod Expanded Cargo
-5493	Type-D Altered SS Expanded Cargo
+5493	Type-D Restrained Expanded Cargo
 5519	Marked Modified SS Inertial Stabilizers
 5521	Partial Hull Conversion Inertial Stabilizers
 5523	Alpha Hull Mod Inertial Stabilizers
@@ -3109,14 +3108,14 @@
 5527	Mark I Modified SS Inertial Stabilizers
 5529	Local Hull Conversion Inertial Stabilizers I
 5531	Beta Hull Mod Inertial Stabilizers
-5533	Type-D Altered SS Inertial Stabilizers
+5533	Type-D Restrained Inertial Stabilizers
 5559	Partial Hull Conversion Nanofiber Structure
 5561	Local Hull Conversion Nanofiber Structure I
 5591	Alpha Hull Mod Nanofiber Structure
 5593	Type-E Altered SS Nanofiber Structure
 5595	Marked Modified SS Nanofiber Structure
 5597	Beta Hull Mod Nanofiber Structure
-5599	Type-D Altered SS Nanofiber Structure
+5599	Type-D Restrained Nanofiber Structure
 5601	Mark I Modified SS Nanofiber Structure
 5611	Partial Hull Conversion Overdrive Injector
 5613	Alpha Hull Mod Overdrive Injector
@@ -3124,12 +3123,12 @@
 5617	Marked Modified SS Overdrive Injector
 5627	Local Hull Conversion Overdrive Injector I
 5629	Beta Hull Mod Overdrive Injector
-5631	Type-D Altered SS Overdrive Injector
+5631	Type-D Restrained Overdrive Injector
 5633	Mark I Modified SS Overdrive Injector
 5643	Local Hull Conversion Reinforced Bulkheads I
 5645	Beta Hull Mod Reinforced Bulkheads
-5647	Type-D Altered SS Reinforced Bulkheads
-5649	Mark I Modified SS Reinforced Bulkheads
+5647	Type-D Restrained Reinforced Bulkheads
+5649	Mark I Compact Reinforced Bulkheads
 5675	Partial Hull Conversion Reinforced Bulkheads
 5677	Alpha Hull Mod Reinforced Bulkheads
 5679	Type-E Altered SS Reinforced Bulkheads
@@ -3191,9 +3190,9 @@
 6097	Medium Ohm Capacitor Reserve I
 6111	Medium F-4a Ld-Sulfate Capacitor Charge Unit
 6129	Surface Cargo Scanner I
-6131	Prototype Freight Sensors
+6131	Enduring Cargo Scanner
 6133	Interior Type-E Cargo Identifier
-6135	PL-0 Shipment Probe
+6135	Scoped Cargo Scanner
 6157	Supplemental Scanning CPU I
 6158	Prototype Sensor Booster
 6159	Alumel-Wired Sensor Augmentation
@@ -3205,27 +3204,27 @@
 6193	Emergency Magnetometric Scanners
 6194	Emergency Multi-Frequency Scanners
 6195	Reserve Gravimetric Scanners
-6199	Reserve LADAR Scanners
+6199	Reserve Ladar Scanners
 6202	Emergency RADAR Scanners
 6203	Reserve Magnetometric Scanners
 6207	Reserve Multi-Frequency Scanners
 6212	Reserve RADAR Scanners
-6216	Emergency LADAR Scanners
+6216	Emergency Ladar Scanners
 6217	Emergency Gravimetric Scanners
 6218	Protected Gravimetric Backup Cluster I
-6222	Protected LADAR Backup Cluster I
+6222	Protected Ladar Backup Cluster I
 6225	Sealed RADAR Backup Cluster
 6226	Protected Magnetometric Backup Cluster I
 6230	Protected Multi-Frequency Backup Cluster I
 6234	Protected RADAR Backup Cluster I
 6238	Sealed Magnetometric Backup Cluster
 6239	Sealed Multi-Frequency Backup Cluster
-6241	Sealed LADAR Backup Cluster
+6241	Sealed Ladar Backup Cluster
 6242	Sealed Gravimetric Backup Cluster
 6243	Surrogate Gravimetric Reserve Array I
 6244	F-43 Repetitive Gravimetric Backup Sensors
-6251	Surrogate LADAR Reserve Array I
-6252	F-43 Repetitive LADAR Backup Sensors
+6251	Surrogate Ladar Reserve Array I
+6252	F-43 Repetitive Ladar Backup Sensors
 6257	Surplus RADAR Reserve Array
 6258	F-42 Reiterative RADAR Backup Sensors
 6259	Surrogate Magnetometric Reserve Array I
@@ -3238,8 +3237,8 @@
 6284	F-42 Reiterative Magnetometric Backup Sensors
 6285	Surplus Multi-Frequency Reserve Array
 6286	F-42 Reiterative Multi-Frequency Backup Sensors
-6289	Surplus LADAR Reserve Array
-6290	F-42 Reiterative LADAR Backup Sensors
+6289	Surplus Ladar Reserve Array
+6290	F-42 Reiterative Ladar Backup Sensors
 6291	Surplus Gravimetric Reserve Array
 6292	F-42 Reiterative Gravimetric Backup Sensors
 6293	Wavelength Signal Enhancer I
@@ -3267,11 +3266,11 @@
 6489	'Benefactor' Ward Reconstructor
 6491	Passive Barrier Compensator I
 6525	Ta3 Perfunctory Vessel Probe
-6527	Rudimentary Ship Scanner I
+6527	Compact Ship Scanner
 6529	Speculative Ship Identifier I
 6531	Practical Type-E Ship Probe
 6567	ML-3 Amphilotite Mining Probe
-6569	Residual Survey Scanner I
+6569	Scoped Survey Scanner
 6571	Rock-Scanning Sensor Array I
 6573	'Dactyl' Type-E Asteroid Analyzer
 6631	Dual Modal Light Laser I
@@ -3417,8 +3416,8 @@
 8023	Upgraded 'Malkuth' Rapid Light Missile Launcher
 8025	Limited 'Limos' Rapid Light Missile Launcher
 8027	Prototype 'Arbalest' Rapid Light Missile Launcher
-8089	Upgraded 'Malkuth' Light Missile Launcher
-8091	Limited 'Limos' Light Missile Launcher
+8089	Compact Light Missile Launcher
+8091	Ample Light Missile Launcher
 8093	Prototype 'Arbalest' Light Missile Launcher
 8101	'Malkuth' Heavy Missile Launcher I
 8103	Advanced 'Limos' Heavy Missile Bay I
@@ -3427,8 +3426,8 @@
 8115	Limited 'Limos' Torpedo Launcher
 8117	Prototype 'Arbalest' Torpedo Launcher
 8131	Local Power Plant Manager: Capacitor Flux I
-8133	Beta Reactor Control: Capacitor Flux I
-8135	Type-D Power Core Modification: Capacitor Flux
+8133	Compact Capacitor Flux Coil
+8135	Restrained Capacitor Flux Coil
 8137	Mark I Generator Refitting: Capacitor Flux
 8163	Partial Power Plant Manager: Capacitor Flux
 8165	Alpha Reactor Control: Capacitor Flux
@@ -3436,8 +3435,8 @@
 8169	Marked Generator Refitting: Capacitor Flux
 8171	Local Power Plant Manager: Capacity Power Relay I
 8173	Beta Reactor Control: Capacitor Power Relay I
-8175	Type-D Power Core Modification: Capacitor Power Relay
-8177	Mark I Generator Refitting: Capacitor Power Relay
+8175	Type-D Restrained Capacitor Power Relay
+8177	Mark I Compact Capacitor Power Relay
 8203	Partial Power Plant Manager: Capacity Power Relay
 8205	Alpha Reactor Control: Capacitor Power Relay
 8207	Type-E Power Core Modification: Capacitor Power Relay
@@ -3449,14 +3448,14 @@
 8219	Local Power Plant Manager: Diagnostic System I
 8221	Beta Reactor Control: Diagnostic System I
 8223	Type-D Power Core Modification: Diagnostic System
-8225	Mark I Generator Refitting: Diagnostic System
+8225	Mark I Compact Power Diagnostic System
 8251	Partial Power Plant Manager: Reaction Control
 8253	Alpha Reactor Control: Reaction Control
 8255	Type-E Power Core Modification: Reaction Control
 8257	Marked Generator Refitting: Reaction Control
 8259	Local Power Plant Manager: Reaction Control I
 8261	Beta Reactor Control: Reaction Control I
-8263	Type-D Power Core Modification: Reaction Control
+8263	Compact Reactor Control Unit
 8265	Mark I Generator Refitting: Reaction Control
 8291	Local Power Plant Manager: Reaction Shield Flux I
 8293	Beta Reactor Control: Shield Flux I
@@ -3515,7 +3514,7 @@
 8745	Photonic CPU Enhancer
 8746	Quantum Co-Processor
 8747	Nanomechanical CPU Enhancer I
-8748	Nanoelectrical Co-Processor I
+8748	Upgraded Co-Processor
 8749	Photonic CPU Enhancer I
 8750	Quantum Co-Processor I
 8759	125mm Light 'Scout' Autocannon I
@@ -3643,14 +3642,14 @@
 9873	Dark Amarr Station O
 9874	Dark Amarr Station H
 9875	Minmatar Trade Station Ruins
-9876	Amarr Commercial Station Ruins
+9876	Fortified Amarr Commercial Station Ruins
 9877	Amarr Military Station Ruins
 9878	Amarr Mining Station Ruins
 9879	Amarr Research Station Ruins
 9880	Amarr Trade Station Ruins
-9881	Caldari Station Ruins - Huge & Sprawling
+9881	Fortified Caldari Station Ruins - Huge & Sprawling
 9882	Caldari Station Ruins - Hook Shaped
-9883	Caldari Station Ruins - Flat Hulk
+9883	Fortified Caldari Station Ruins - Flat Hulk
 9884	Caldari Station Ruins - Industry Drill
 9885	Gallente Station Ruins - Disc
 9886	Gallente Station Ruins - Fathom
@@ -4278,13 +4277,13 @@
 11441	Plasma Physics
 11442	Nanite Engineering
 11443	Hydromagnetic Physics
-11444	Amarrian Starship Engineering
+11444	Amarr Starship Engineering
 11445	Minmatar Starship Engineering
 11446	Graviton Physics
 11447	Laser Physics
 11448	Electromagnetic Physics
 11449	Rocket Science
-11450	Gallentean Starship Engineering
+11450	Gallente Starship Engineering
 11451	Nuclear Physics
 11452	Mechanical Engineering
 11453	Electronic Engineering
@@ -4546,8 +4545,8 @@
 11812	Signal Amplifier II Blueprint
 11820	Gravimetric Backup Array I Blueprint
 11821	Gravimetric Backup Array II Blueprint
-11824	LADAR Backup Array I Blueprint
-11825	LADAR Backup Array II Blueprint
+11824	Ladar Backup Array I Blueprint
+11825	Ladar Backup Array II Blueprint
 11828	Magnetometric Backup Array I Blueprint
 11829	Magnetometric Backup Array II Blueprint
 11832	Multi Sensor Backup Array I Blueprint
@@ -7111,7 +7110,7 @@
 16531	5a Prototype Shield Support I
 16533	'Stalwart' Particle Field Magnifier
 16535	'Copasetic' Particle Field Acceleration
-16537	Micro B66 Core Augmentation
+16537	Compact Micro Auxiliary Power Core
 16539	Micro B88 Core Augmentation
 16541	Micro K-Exhaust Core Augmentation
 16543	Micro 'Vigor' Core Augmentation
@@ -7289,7 +7288,7 @@
 16745	Tower Sentry Minmatar III
 16746	Tower Sentry Sansha III
 16747	Tower Sentry Serpentis III
-16748	Amarr Bunker
+16748	Occupied Amarr Bunker
 16749	Amarr Elevator
 16750	Amarr Junction
 16751	Amarr Lookout
@@ -9053,7 +9052,7 @@
 19726	Phoenix
 19727	Phoenix Blueprint
 19728	Deadspace Signature
-19729	Gallente Bunker_UDI
+19729	Gallente Bunker UDI
 19730	Communications Logs
 19731	Sansha Corpse Collector
 19732	Sansha Supply Pit Passcard
@@ -10099,17 +10098,17 @@
 21488	Monophonic Stabilization Actuator I
 21489	Monophonic Stabilization Actuator I Blueprint
 21490	Zarkona Mirei's Worm
-21491	Synthetic Hull Conversion Overdrive Injector I
-21492	Synthetic Hull Conversion Overdrive Injector I Blueprint
-21493	Limited Expanded 'Archiver' Cargo I
-21494	Limited Expanded 'Archiver' Cargo I Blueprint
+21491	Synthetic Hull Conversion Overdrive Injector
+21492	Synthetic Hull Conversion Overdrive Injector Blueprint
+21493	Limited Expanded 'Archiver' Cargo
+21494	Limited Expanded 'Archiver' Cargo Blueprint
 21495	Dry River Gangmember
-21496	Synthetic Hull Conversion Reinforced Bulkheads I
-21497	Synthetic Hull Conversion Reinforced Bulkheads I Blueprint
-21498	Synthetic Hull Conversion Inertia Stabilizers I
-21499	Synthetic Hull Conversion Inertia Stabilizers I Blueprint
-21500	Synthetic Hull Conversion Nanofiber Structure I
-21501	Synthetic Hull Conversion Nanofiber Structure I Blueprint
+21496	Synthetic Hull Conversion Reinforced Bulkheads
+21497	Synthetic Hull Conversion Reinforced Bulkheads Blueprint
+21498	Synthetic Hull Conversion Inertia Stabilizers
+21499	Synthetic Hull Conversion Inertia Stabilizers Blueprint
+21500	Synthetic Hull Conversion Nanofiber Structure
+21501	Synthetic Hull Conversion Nanofiber Structure Blueprint
 21502	Zarkona Mirei
 21503	Dry River Gangleader
 21504	Small 'Integrative' Hull Repair Unit
@@ -10131,8 +10130,8 @@
 21520	Guristas Outlaw Dogtag
 21521	Gravimetric Firewall
 21522	Gravimetric Firewall Blueprint
-21523	LADAR Firewall
-21524	LADAR Firewall Blueprint
+21523	Ladar Firewall
+21524	Ladar Firewall Blueprint
 21525	Magnetometric Firewall
 21526	Magnetometric Firewall Blueprint
 21527	Multi Sensor Firewall
@@ -10274,7 +10273,7 @@
 21667	Capital Projectile Turret
 21668	Citadel Torpedoes
 21669	Guristas Communications Logs
-21670	Quao Kale_
+21670	Quao Kale
 21671	Guristas Patrol Routes
 21672	Quao Kale
 21675	Zaphiria Oddin
@@ -10382,15 +10381,15 @@
 21794	Sanku Pansya
 21795	Pansya's Bodyguard
 21796	Black Mask Bandit
-21797	LCO Arena
+21797	Arena
 21798	Hillside Gambling Hall
-21799	LCO Pleasure Hub
+21799	Pleasure Hub
 21800	EMP Charge Components
 21801	Firewater
 21802	Capital Shield Operation
 21803	Capital Repair Systems
 21804	Rotgut
-21807	LCO Caldari Junction
+21807	Fortified Caldari Junction
 21808	Punk ID Slice
 21809	Hacker ID Slice
 21810	Spy ID Slice
@@ -10403,25 +10402,25 @@
 21817	Raysere's Modified Cap Recharger
 21818	Ahremen's Modified Cap Recharger
 21819	Draclira's Modified Cap Recharger
-21820	LCO Gallente Outpost
-21821	LCO Habitation Brothel
-21822	LCO Habitation Prison
+21820	Fortified Gallente Outpost
+21821	Habitation Brothel
+21822	Habitation Prison
 21823	Residential Habitation Module
-21824	LCO Habitation Pleasure Hub
-21825	LCO Habitation Casino
-21826	LCO Habitation Police Dpt
-21827	LCO Habitation Roadhouse
-21828	LCO Habitation Drughouse
+21824	Habitation Pleasure Hub
+21825	Habitation Casino
+21826	Habitation Police Dpt
+21827	Habitation Roadhouse
+21828	Habitation Drughouse
 21829	Indestructible Landing Pad
-21830	LCO Minmatar Wall
-21831	LCO Minmatar Fence
-21832	LCO Minmatar Junction
-21833	LCO Minmatar Lookout
-21834	LCO Minmatar Barrier
-21835	LCO Minmatar Bunker
-21836	LCO Minmatar Barricade
-21837	LCO Minmatar Battery
-21838	LCO Minmatar Elevator
+21830	Fortified Minmatar Wall
+21831	Fortified Minmatar Fence
+21832	Fortified Minmatar Junction
+21833	Fortified Minmatar Lookout
+21834	Fortified Minmatar Barrier
+21835	Fortified Minmatar Bunker
+21836	Fortified Minmatar Barricade
+21837	Fortified Minmatar Battery
+21838	Fortified Minmatar Elevator
 21839	Training Complex Passkey
 21840	Gallente Miner
 21841	Gallente Mining Laser
@@ -10768,7 +10767,7 @@
 22241	Deserted Nefantar Bunker
 22242	Capital Ship Construction
 22246	Minmatar Republic Narcotics Deputy
-22247	Nefantar Debris_Mission
+22247	Nefantar Debris II
 22248	Ancient Nefantar Sculpture
 22249	Lagaster Malotoff's Tag
 22250	Lagaster Malotoff
@@ -10845,7 +10844,7 @@
 22335	Sleeper Data Analyzer I
 22337	Terran Data Analyzer I
 22339	Tetrimon Data Analyzer I
-22343	Nefantar_Debris_Mission2
+22343	Nefantar Debris I
 22390	Nikmar Jyran's Retribution
 22391	Taspar Zolankor's Retribution
 22428	Redeemer
@@ -10920,13 +10919,13 @@
 22577	Ice Harvester Upgrade I Blueprint
 22578	Mining Upgrades
 22609	Erin Mining Laser Upgrade
-22611	Elara Mining Laser Upgrade
-22613	Carpo Mining Laser Upgrade
-22615	Aoede Mining Laser Upgrade
+22611	Elara Restrained Mining Laser Upgrade
+22613	'Carpo' Mining Laser Upgrade
+22615	'Aoede' Mining Laser Upgrade
 22617	Crisium Ice Harvester Upgrade
-22619	Frigoris Ice Harvester Upgrade
-22621	Anguis Ice Harvester Upgrade
-22623	Ingenii Ice Harvester Upgrade
+22619	Frigoris Restrained Ice Harvester Upgrade
+22621	'Anguis' Ice Harvester Upgrade
+22623	'Ingenii' Ice Harvester Upgrade
 22625	Kaiko Maina (Merlin)
 22629	Emma Tharkin (MOA)
 22630	Zoun Makui (Scorpion)
@@ -11397,16 +11396,16 @@
 23219	Serpentis Network Nexus
 23220	Disposal Unit
 23221	COSMOS Amarr NON-Pirate Battleship
-23222	LCOSerpentis Barricade
-23223	LCO Serpentis Barricade
-23224	LCO Serpentis Barrier
-23225	LCO Serpentis Battery
-23226	LCO Serpentis Bunker
-23227	LCO Gallente Elevator
-23228	LCO Serpentis Fence
-23229	LCO Serpentis Junction
-23230	LCO Serpentis Lookout
-23231	LCO Serpentis Wall
+23222	Serpentis Barricade
+23223	Fortified Serpentis Barricade
+23224	Fortified Serpentis Barrier
+23225	Fortified Serpentis Battery
+23226	Fortified Serpentis Bunker
+23227	Fortified Gallente Elevator
+23228	Fortified Serpentis Fence
+23229	Fortified Serpentis Junction
+23230	Fortified Serpentis Lookout
+23231	Fortified Serpentis Wall
 23232	Karmane Ban's Blackbird
 23233	Apte Donie
 23234	Azure Canyon Tourist Pass
@@ -11713,7 +11712,7 @@
 23550	Don Rico's Head
 23551	FON Contact DNA
 23552	FON Banner
-23553	LCO Pleasure Cruiser
+23553	Pleasure Cruiser
 23554	Trust Partners Business Card
 23555	Ship logs
 23556	Warning Message
@@ -11871,8 +11870,8 @@
 23738	Wiyrkomi Scandal Holoreel
 23739	Recon Speeders
 23740	Custom-built Guidance System
-23741	LCO Shipyard
-23742	LCO Pulsating Sensor
+23741	Fortified Shipyard
+23742	Pulsating Sensor
 23743	Kador Bunker
 23744	Nossa Farad's Voucher
 23745	Odan Poun's Message
@@ -11888,9 +11887,9 @@
 23758	Archon Blueprint
 23759	FA-14 Templar
 23760	FA-14 Templar Blueprint
-23761	Amarr Starbase Control Tower_LCO
-23762	LCO Amarr Lookout
-23763	LCO Cargo Rig
+23761	Amarr Starbase Control Tower
+23762	Fortified Amarr Lookout
+23763	Fortified Cargo Rig
 23764	Bartezo's Message
 23765	Kofur Karveran's Armageddon
 23766	Ader's Keycard
@@ -11952,14 +11951,14 @@
 23822	'Upir' Small Nosferatu I Blueprint
 23824	'Strigoi' Medium Nosferatu I
 23825	'Strigoi' Medium Nosferatu I Blueprint
-23826	LCO Amarr Battery
+23826	Fortified Amarr Battery
 23827	Cora Chaktaren Armageddon
 23828	Spatial Rift
 23829	'Vrykolakas' Heavy Nosferatu I
 23830	'Vrykolakas' Heavy Nosferatu I Blueprint
 23831	Zar Forari's Bestower
 23832	Zach Himen's Omen
-23833	LCO Amarr Wall
+23833	Fortified Amarr Wall
 23834	'Mace' Dual Light Beam Laser I
 23835	'Mace' Dual Light Beam Laser I Blueprint
 23836	'Longbow' Small Focused Pulse Laser I
@@ -11984,9 +11983,9 @@
 23855	'Knight' Medium Remote Capacitor Transmitter Blueprint
 23856	'Chivalry' Large Remote Capacitor Transmitter
 23857	'Chivalry' Large Remote Capacitor Transmitter Blueprint
-23858	LCS Amarr Bunker
-23859	LCO Amarr Administration Complex
-23860	LCO Docked Bestower
+23858	Amarr Bunker
+23859	Amarr Administration Complex
+23860	Docked Bestower
 23863	Nidupadian Yorak Eggs
 23864	'Pike' Small EMP Smartbomb I
 23865	'Pike' Small EMP Smartbomb I Blueprint
@@ -12074,10 +12073,10 @@
 23959	Thukker Mercenary Elite Fighter
 23960	Sentry Station Alpha/Beta
 23961	Serpentis Sentry Station Gate Crystal
-23963	LCS Stargate (Gallente 1)
+23963	Stargate Gallente 1
 23964	Blood Kernel
 23965	Blood Raider Foreman
-23968	LCO Blood Raider Barrier
+23968	Fortified Blood Raider Barrier
 23969	Gistior Shatterer
 23970	Corpior Visionary
 23971	Pithior Nihilist
@@ -12138,10 +12137,10 @@
 24026	Corelatis Captain
 24027	Corelatis Captain Sentry
 24028	Corelatis High Captain
-24029	LCO Blood Raider Fence
+24029	Fortified Blood Raider Fence
 24030	R.S. Officer's Passcard
 24031	R.S. Officer's Alpha Passcard
-24032	LCO Human Farm
+24032	Human Farm
 24033	Arch Gistii Ruffian
 24034	Arch Gistii Nomad
 24035	Arch Gistii Ambusher
@@ -12352,14 +12351,14 @@
 24242	Infomorph Psychology
 24243	Altar of the Blessed
 24244	The Apocryphon
-24245	LCS Smuggler Stargate
+24245	Smuggler Stargate
 24246	Bug-Ridden Corpse
 24247	Antiseptic Biomass
 24248	Noble Remains
 24249	Generator Debris
 24250	Archpriest Hakram's Head
 24251	Pilgrims
-24252	LCO Smuggler Stargate
+24252	Fortified Smuggler Stargate
 24253	Dead Pilgrim
 24254	Saintly Shroud
 24255	Arc of Revelation
@@ -12407,7 +12406,7 @@
 24307	Serpentis Surveyor
 24308	Smuggler Knot Lock
 24309	Zach Himum's Armageddon
-24310	LCS Amarr Citadel
+24310	Amarr Citadel
 24311	Amarr Carrier
 24312	Caldari Carrier
 24313	Gallente Carrier
@@ -12487,8 +12486,8 @@
 24454	Kungizo Eladar
 24455	Tukkito Usa
 24456	Ammatar Battlestation
-24457	LCO Blood Raider Bunker
-24458	LCO Blood Raider Junction
+24457	Fortified Blood Raider Bunker
+24458	Fortified Blood Raider Junction
 24459	Habitation Module With Encoded Data Chip
 24462	Key of the Arcane
 24463	Udokas' Crusader
@@ -12507,7 +12506,7 @@
 24477	Scourge Javelin Rocket
 24478	Nova Javelin Rocket
 24479	Inferno Javelin Rocket
-24480	LCO Spatial Rift
+24480	Fortified Spatial Rift
 24482	Key to the Labyrinth
 24483	Nidhoggur
 24484	Nidhoggur Blueprint
@@ -12591,8 +12590,8 @@
 24562	Jump Portal Generation
 24563	Doomsday Operation
 24564	Chanounian Wine
-24565	LCS Stargate (Caldari 1)
-24566	LCO Stargate (Caldari 1)
+24565	Stargate - Caldari 1
+24566	Stargate - Caldari 
 24567	Experimental Laboratory
 24568	Capital Remote Armor Repair Systems
 24569	Capital Remote Armor Repairer I
@@ -12610,8 +12609,8 @@
 24582	The Negotiator
 24583	Arcana Patron
 24584	Wiyrkomi Head Engineer
-24587	LCS Amarr Stargate
-24588	LCS Station (Caldari 4)
+24587	Amarr Stargate
+24588	Station Caldari 4
 24589	Warning Sign
 24592	Amarr Empire Starbase Charter
 24593	Caldari State Starbase Charter
@@ -12624,7 +12623,7 @@
 24606	Cloning Facility Operation
 24607	TestScanRadar
 24608	SnowballNewEffect
-24609	LCO Gallente Stargate
+24609	Gallente Stargate
 24613	Advanced Drone Interfacing
 24614	Scourge Javelin Heavy Assault Missile Blueprint
 24615	Inferno Javelin Heavy Assault Missile Blueprint
@@ -12668,7 +12667,7 @@
 24682	Maphante Guardian
 24683	Maphante Interceptor
 24684	Biochemical Reactor Array
-24685	LCS Stargate (Minmatar 1)
+24685	Stargate Minmatar 1
 24688	Rokh
 24689	Rokh Blueprint
 24690	Hyperion
@@ -12695,7 +12694,7 @@
 24713	Guristas Stash
 24714	Important Surveillance Data
 24715	Severed Head
-24716	LCS Station (Caldari 6)
+24716	Station Caldari 6
 24717	Havatiah's Ship Database
 24718	Havatiah Kiin
 24719	Gallente Graduation Certificate
@@ -12745,9 +12744,9 @@
 24765	Damaged Heron
 24766	Ship's Crew
 24767	Guristas Basic Defense Battery
-24768	LCS (Gallente Station 7)
-24769	LCS (Gallente Station 8)
-24770	LCS (Gallente Station 4)
+24768	Gallente Station 7
+24769	Gallente Station 8
+24770	Gallente Station 4
 24771	Overseer's Stash
 24772	Deficient Tower Sentry Sansha II
 24777	Republic Radur
@@ -13003,8 +13002,8 @@
 25202	Federation Praktor Magister
 25215	Apocalypse 125ms 2500m
 25230	Republic Fleet High Captain Insignia II
-25231	LCO Stargate (Minmatar 1)
-25232	LCO Stargate (Gallente 1)
+25231	Stargate - Minmatar
+25232	Stargate - Gallente
 25233	Corporation Contracting
 25235	Contracting
 25236	Gas Cloud 1
@@ -13098,11 +13097,11 @@
 25352	Black Jack's Underling
 25353	Serpentis Shipyard Cipher
 25354	Celestial Agent Site Beacon
-25355	LCS Station (Caldari 1)
-25356	LCS Station (Caldari 2)
-25357	LCS Station (Caldari 3)
-25358	LCS Station (Caldari 5)
-25359	LCS Station (Caldari Research Outpost)
+25355	Station Caldari 1
+25356	Station Caldari 2
+25357	Station Caldari 3
+25358	Station Caldari 5
+25359	Station Caldari Research Outpost
 25360	Caldari Research Outpost
 25363	Static Caracal Navy Issue
 25364	Black Jack's DNA
@@ -13115,7 +13114,7 @@
 25372	Tomi Hakiro's Insignia
 25373	Militants
 25374	Mutated Drone Parasite
-25375	LCO Guristas Control Tower
+25375	Fortified Guristas Control Tower
 25377	Akkeshu's Storage Facility
 25378	Drone Modified Passcard
 25379	Anti-Stabilizer Drone
@@ -13233,7 +13232,7 @@
 25549	Security Overseer
 25550	Freebooter's Key Alpha
 25551	Blood Raider Shipyard Keycard
-25552	LCS Blood Raider Bhaalgorn
+25552	Blood Raider Bhaalgorn
 25553	Cryptic Data Interface
 25554	Occult Data Interface
 25555	Esoteric Data Interface
@@ -13423,16 +13422,16 @@
 25816	TEST Triggered Damage Cloud
 25817	TEST Cap Drain Sentry
 25818	Black Jack
-25819	LCS Amarr Trade Post
+25819	Amarr Trade Post
 25820	Kristjan's Gallente Boss
 25821	General Storage
 25822	Gist_Defender Battleship
 25823	Gistii_Defender_Frigate
 25824	Pith Defender
 25825	Pithi Defender
-25826	LCS (Minmatar Mining Station)
+25826	Minmatar Mining Station
 25827	Minmatar Station Sentry
-25828	LCS Drug Lab
+25828	Fortified Drug Lab
 25829	Angel Chaos Frigate
 25830	Pondah Shanjih's Malediction
 25831	Charit Rish's Baalgorn
@@ -13455,7 +13454,7 @@
 25856	Incognito Ship Data Interface Blueprint
 25857	Cryptic Ship Data Interface
 25858	Cryptic Ship Data Interface Blueprint
-25859	Amarr Battlestation_2
+25859	Amarr Battlestation 2
 25860	Argon Gas Environment_Damage
 25861	Salvager I
 25862	Salvager I Blueprint
@@ -13553,9 +13552,9 @@
 25989	Minecore Harvester
 25990	Republic Fleet Keeper
 25991	Guristas Starbase Control Tower_Tough
-25992	LCS Conquerable Station 3
-25993	LCS Conquerable Station 2
-25994	LCS Conquerable Station 1
+25992	Conquerable Station 3
+25993	Conquerable Station 2
+25994	Conquerable Station 1
 25995	Sansha's Slave Master
 25996	Large Hybrid Discharge Elutriation I
 25997	Large Hybrid Discharge Elutriation I Blueprint
@@ -13654,7 +13653,7 @@
 26118	Martokar Alash
 26119	Abufyr Joek
 26120	Abufyr Joek's Head
-26121	Amarr Battlestation_3
+26121	Amarr Battlestation 3
 26122	Pillaging 101
 26123	The Little Pirate That Could
 26124	17 Successful Torture Techniques
@@ -13745,17 +13744,17 @@
 26225	Jamiella Ortar
 26227	Research Overseer
 26228	Think Tank Security Pad
-26229	Minmatar Trade Station Ruins_No Description
-26230	Minmatar Mining Station Ruins - no description
-26231	Minmatar Commercial Station Ruins- no description
-26232	Amarr Commercial Station Ruins-no description
-26233	Amarr Mining Station Ruins- no description
-26234	Amarr Research Station Ruins- no description
-26235	Caldari Station Ruins - Flat Hulk- no description
-26236	Caldari Station Ruins - Huge & Sprawling - no description
-26237	Gallente Station Ruins - Fathom -no description
-26238	Gallente Station Ruins - Military-no description
-26239	Gallente Station Ruins - Ugly Industrial- no description
+26229	Fortified Minmatar Trade Station Ruins
+26230	Fortified Minmatar Mining Station Ruins
+26231	Fortified Minmatar Commercial Station Ruins
+26232	Amarr Commercial Station Ruins
+26233	Fortified Amarr Mining Station Ruins
+26234	Fortified Amarr Research Station Ruins
+26235	Caldari Station Ruins - Flat Hulk
+26236	Caldari Station Ruins - Huge & Sprawling
+26237	Fortified Gallente Station Ruins - Fathom
+26238	Fortified Gallente Station Ruins - Military
+26239	Fortified Gallente Station Ruins - Ugly Industrial
 26240	Weapon's Storage Facility
 26241	VIP Pass
 26244	Head Bouncer
@@ -14105,7 +14104,7 @@
 26604	Occult Tuner Data Interface Blueprint
 26605	Drone Hold
 26606	Sansha Deadspace Outpost
-26607	Miner II China Blueprint
+26607	Civilian Miner Blueprint
 26657	Angel Waste
 26658	Angel Wreck
 26659	Angel Derelict
@@ -14141,7 +14140,7 @@
 26691	Shadow Corelum Infantry
 26692	True Centus Preacher
 26694	Shadow Grand Admiral
-26695	LCS Station (Angel Serpentis)
+26695	Station Angel Serpentis
 26696	Sidura Meisana
 26699	Angel Medium Commander Wreck
 26700	Blood Large Commander Wreck
@@ -14180,14 +14179,14 @@
 26736	Sansha Research Outpost
 26737	Gallente Starbase Control Tower_Tough_Good Loot
 26738	Serpentis Research Outpost
-26739	LCO Bursar
-26740	LCS Bursar
+26739	Fortified Bursar
+26740	Bursar
 26741	Kaerleiks Bjorn
 26742	Einhas Malak
-26743	LCO Prorator
+26743	Amarr Prorator Industrial
 26744	Cura Gigno
 26745	High Ritualist Padio Atour
-26746	LCO Crane
+26746	Caldari Crane Industrial
 26747	Guristas Annihilation Missile Battery_Uber
 26748	Teinei Kuma
 26749	Terrorist Overlord Inzi Kika
@@ -14235,7 +14234,7 @@
 26791	Crates of Construction Blocks
 26792	Barrels of Water
 26793	Colonial Master Diabolus Maytor
-26794	LCO Viator
+26794	Gallente Viator Industrial
 26795	Ours De Soin
 26796	Privateer Admiral Heysus Sarpati
 26797	Black Caesar
@@ -14262,14 +14261,14 @@
 26850	Tournament Bubble TEST Blueprint
 26851	Fools Crokite
 26852	Flawed Arkonor
-26853	LCS Drug Lab_Crash
-26854	LCS Drug Lab_Exile
-26855	LCS Drug Lab_Mindflood
+26853	Drug Lab Crash
+26854	Drug Lab Exile
+26855	Drug Lab Mindflood
 26856	Serpentis Crash Storage Platform
 26857	Serpentis Exile Storage Platform
 26858	Serpentis Mindflood Storage Platform
 26859	Hodura Amaba
-26860	LCO Docked Mammoth
+26860	Docked Mammoth
 26862	Jols Eytur
 26863	Vlye Cadille
 26864	Eha Hidaiki
@@ -14342,7 +14341,7 @@
 26965	Shield Transporter Rig I Blueprint
 26966	Shield Transporter Rig II
 26967	Shield Transporter Rig II Blueprint
-26968	LCO Drone Bunker
+26968	Fortified Drone Bunker
 26969	Amarr Slaver Ship
 26970	Amarr Slave Transport Ship
 26971	Blood Raider Slave Transport Ship
@@ -14985,10 +14984,10 @@
 27876	Dark Blood Energy Neutralizing Battery Blueprint
 27877	Sansha Energy Neutralizing Battery Blueprint
 27878	True Sansha Energy Neutralizing Battery Blueprint
-27879	LCS Gallente Station 150k
-27880	LCS Minmatar Station 150k
-27881	LCS Caldari Station 150k
-27882	LCS Amarr Station 150k
+27879	Gallente Station 150k
+27880	Minmatar Station 150k
+27881	Caldari Station 150k
+27882	Amarr Station 150k
 27883	Sansha Mjolnir Rocket
 27884	True Sansha Mjolnir Rocket
 27885	Sansha Sabretooth Light Missile
@@ -15397,7 +15396,7 @@
 28337	Republic Fleet Depleted Uranium S Blueprint
 28338	Republic Fleet Depleted Uranium XL
 28339	Republic Fleet Depleted Uranium XL Blueprint
-28340	LCS Drug Lab_noloot
+28340	Drug Lab
 28351	Design Laboratory
 28352	Rorqual
 28353	Rorqual Blueprint
@@ -16058,11 +16057,11 @@
 29148	Corpse Female
 29149	Stationary Pleasure Yacht
 29150	Encrypted Ship Log
-29157	LCO Wrecked Revelation
-29158	LCO Wrecked Archon
-29159	LCO Wrecked Battleship
-29160	LCO Wrecked Cruiser
-29161	LCO Wrecked Frigate
+29157	Wrecked Revelation
+29158	Wrecked Archon
+29159	Wrecked Battleship
+29160	Wrecked Cruiser
+29161	Wrecked Frigate
 29162	Privateer Commander's Head
 29165	Amarr Tactical Relay
 29166	Amarr Tactical Supply Station
@@ -16100,8 +16099,8 @@
 29205	Corporations for the Rest of Us
 29206	Device
 29207	10km Amarr Capture Point
-29208	LCO Billboard
-29209	LCS Billboard
+29208	Fortified Billboard
+29209	Billboard
 29211	Faulty Suntendi Virtu-Real Implant
 29212	Suntendi Research Outpost
 29213	Habitation Module w/4xScientists
@@ -16132,8 +16131,8 @@
 29247	Loyalty Points
 29248	Magnate
 29249	Magnate Blueprint
-29250	LCO Large EM Forcefield
-29251	LCO Starbase Explosion Dampening Array
+29250	Fortified Large EM Forcefield
+29251	Fortified Starbase Explosion Dampening Array
 29253	Political Envoy
 29262	Fuel Depot
 29263	Geeral Tash-Murkon
@@ -16143,7 +16142,7 @@
 29269	Major's Son
 29272	Air Show Entrance Badge
 29278	Physical Samples
-29279	Station (Caldari 5)
+29279	Station - Caldari
 29283	Troubled Miner
 29284	Central Data Core
 29285	Insorum Components
@@ -16234,15 +16233,15 @@
 29445	Cargo Container - Physical Samples
 29446	Large Container of Explosives
 29447	Gallente Politician
-29452	LCO Gallente Bunker
-29453	LCO Gallente Lookout
-29454	LCO Gallente Barricade
-29455	LCO Gallente Barrier
-29456	LCO Gallente Battery
-29457	LCO Gallente Fence
-29458	LCO Gallente Junction
-29459	LCO Gallente Wall
-29460	Gallente Starbase Control Tower_LCO
+29452	Fortified Gallente Bunker
+29453	Fortified Gallente Lookout
+29454	Fortified Gallente Barricade
+29455	Fortified Gallente Barrier
+29456	Fortified Gallente Battery
+29457	Fortified Gallente Fence
+29458	Fortified Gallente Junction
+29459	Fortified Gallente Wall
+29460	Gallente Starbase Control Tower
 29461	Starbase Hangar Tough
 29464	Runaway Daughter
 29466	The Incredible Hulk
@@ -16272,68 +16271,68 @@
 29497	Ribbon
 29503	Indestructible Minmatar Starbase
 29504	OP Insecticide
-29505	LCO Amarr Bunker
-29506	LCO Caldari Bunker
-29507	Caldari Starbase Control Tower_LCO
-29508	LCO Caldari Lookout
-29509	LCO Caldari Elevator
+29505	Fortified Amarr Bunker
+29506	Fortified Caldari Bunker
+29507	Caldari Starbase Control Tower
+29508	Fortified Caldari Lookout
+29509	Fortified Caldari Elevator
 29511	China Monument
 29530	Certificate
 29531	Old Map
 29532	Cartographer's Quarters
-29546	LCO Revelation
+29546	Amarr Revelation Dreadnought
 29549	Reconnaissance Ship Wreck
-29551	LCO Angel Barricade
-29552	LCO Angel Barrier
-29553	LCO Angel Battery
-29554	LCO Angel Bunker
-29555	LCO Angel Elevator
-29556	LCO Angel Fence
-29557	LCO Angel Junction
-29558	LCO Angel Lookout
-29559	LCO Angel Wall
-29561	LCO Blood Raider Barricade
-29562	LCO Blood Raider Battery
-29563	LCO Blood Raider Elevator
-29564	LCO Blood Raider Lookout
-29565	LCO Blood Raider Wall
-29566	LCO Amarr Barricade
-29567	LCO Amarr Barrier
-29568	LCO Amarr Elevator
-29569	LCO Amarr Fence
-29570	LCO Amarr Junction
-29571	LCO Caldari Barricade
-29572	LCO Caldari Barrier
-29573	LCO Caldari Battery
-29574	LCO Caldari Fence
-29575	LCO Caldari Wall
-29576	LCO Guristas Barricade
-29577	LCO Guristas Barrier
-29578	LCO Guristas Battery
-29579	LCO Guristas Wall
-29580	LCO Guristas Lookout
-29581	LCO Guristas Junction
-29582	LCO Guristas Fence
-29583	LCO Guristas Elevator
-29584	LCO Guristas Bunker
-29585	LCO Drone Barricade
-29586	LCO Drone Barrier
-29589	LCO Drone Battery
-29590	LCO Drone Elevator
-29591	LCO Drone Fence
-29592	LCO Drone Junction
-29593	LCO Drone Lookout
-29594	LCO Drone Wall
-29595	LCO Serpentis Elevator
-29596	LCO Sansha Barricade
-29597	LCO Sansha Barrier
-29598	LCO Sansha Battery
-29599	LCO Sansha Bunker
-29600	LCO Sansha Elevator
-29601	LCO Sansha Fence
-29602	LCO Sansha Junction
-29603	LCO Sansha Lookout
-29604	LCO Sansha Wall
+29551	Fortified Angel Barricade
+29552	Fortified Angel Barrier
+29553	Fortified Angel Battery
+29554	Fortified Angel Bunker
+29555	Fortified Angel Elevator
+29556	Fortified Angel Fence
+29557	Fortified Angel Junction
+29558	Fortified Angel Lookout
+29559	Fortified Angel Wall
+29561	Fortified Blood Raider Barricade
+29562	Fortified Blood Raider Battery
+29563	Fortified Blood Raider Elevator
+29564	Fortified Blood Raider Lookout
+29565	Fortified Blood Raider Wall
+29566	Fortified Amarr Barricade
+29567	Fortified Amarr Barrier
+29568	Fortified Amarr Elevator
+29569	Fortified Amarr Fence
+29570	Fortified Amarr Junction
+29571	Fortified Caldari Barricade
+29572	Fortified Caldari Barrier
+29573	Fortified Caldari Battery
+29574	Fortified Caldari Fence
+29575	Fortified Caldari Wall
+29576	Fortified Guristas Barricade
+29577	Fortified Guristas Barrier
+29578	Fortified Guristas Battery
+29579	Fortified Guristas Wall
+29580	Fortified Guristas Lookout 
+29581	Fortified Guristas Junction
+29582	Fortified Guristas Fence
+29583	Fortified Guristas Elevator
+29584	Fortified Guristas Bunker
+29585	Fortified Drone Barricade
+29586	Fortified Drone Barrier
+29589	Fortified Drone Battery
+29590	Fortified Drone Elevator
+29591	Fortified Drone Fence
+29592	Fortified Drone Junction
+29593	Fortified Drone Lookout
+29594	Fortified Drone Wall
+29595	Fortified Serpentis Elevator
+29596	Fortified Sansha Barricade
+29597	Fortified Sansha Barrier
+29598	Fortified Sansha Battery
+29599	Fortified Sansha Bunker
+29600	Fortified Sansha Elevator
+29601	Fortified Sansha Fence
+29602	Fortified Sansha Junction
+29603	Fortified Sansha Lookout
+29604	Fortified Sansha Wall
 29606	Leviathan Wreck
 29607	Gallentean Viral Agent
 29608	Radio Telescope - Hacking - Encoded Data Chip
@@ -16919,7 +16918,7 @@
 30384	Minmatar Subsystems Data Interface
 30385	Gallente Subsystems Data Interface
 30386	R.Db.- Hybrid Technology
-30387	R.A.M.- Hybrid Technology Blueprint
+30387	R.Db.- Hybrid Technology Blueprint
 30388	Arena_GA_MainStructure01
 30389	Subsystem Assembly Array
 30391	Omni Effect Beacon
@@ -17202,7 +17201,7 @@
 30785	Destroyed Ship
 30786	Storage Warehouse
 30788	Propulsion Subsystem Technology
-30789	LCO Starbase Auxiliary Power Array
+30789	Fortified Starbase Auxiliary Power Array
 30790	Civilian Caldari Battleship Scorpion
 30791	Civilian Caldari Battleship Rokh
 30792	Civilian Caldari Battleship Raven
@@ -17289,12 +17288,12 @@
 30887	Tevis Jak's Epithal
 30889	Planet (Shattered)
 30894	Amarr Armageddon Battleship
-30895	LCO Raven
-30896	LCO Tempest
-30897	LCO Dominix
-30898	LCO Wreathe
+30895	Caldari Raven Battleship
+30896	Minmatar Tempest Battleship
+30897	Gallente Dominix Battleship
+30898	Minmatar Wreathe industrial
 30899	Cargo Wreathe
-30900	LCO Drone Structure I
+30900	Fortified Drone Structure I
 30901	Sleeper Engineering Station
 30902	Talocan Embarkment Destroyer
 30903	Talocan Disruption Tower
@@ -17308,7 +17307,7 @@
 30949	Josameto Verification Center
 30950	Corporate Liaison
 30951	Verification Key
-30952	Dossier  Author Unknown
+30952	Dossier – Author Unknown
 30953	Cargo Facility 7A-21
 30954	Hyasyoda Captain
 30955	S.I Formula Sheet
@@ -18205,17 +18204,17 @@
 31918	Federation Navy 800mm Reinforced Steel Plates
 31919	Imperial Navy 800mm Reinforced Steel Plates 2 Blueprint
 31922	Caldari Navy Small Shield Extender
-31923	Caldari Navy Small Shield Extender 1 Blueprint
+31923	Caldari Navy Small Shield Extender Blueprint
 31924	Republic Fleet Small Shield Extender
-31925	Caldari Navy Small Shield Extender 2 Blueprint
+31925	Republic Fleet Small Shield Extender Blueprint
 31926	Caldari Navy Medium Shield Extender
-31927	Caldari Navy Medium Shield Extender 1 Blueprint
+31927	Caldari Navy Medium Shield Extender Blueprint
 31928	Republic Fleet Medium Shield Extender
-31929	Caldari Navy Medium Shield Extender 2 Blueprint
+31929	Republic Fleet Medium Shield Extender Blueprint
 31930	Caldari Navy Large Shield Extender
-31931	Caldari Navy Large Shield Extender 1 Blueprint
+31931	Caldari Navy Large Shield Extender Blueprint
 31932	Republic Fleet Large Shield Extender
-31933	Caldari Navy Large Shield Extender 2 Blueprint
+31933	Republic Fleet Large Shield Extender Blueprint
 31936	Navy Micro Auxiliary Power Core
 31942	Federation Navy Omnidirectional Tracking Link
 31943	Federation Navy Omnidirectional Tracking Link Blueprint
@@ -18364,15 +18363,15 @@
 32125	Low-grade Talon Omega
 32126	Homemade Sansha Beacon
 32127	Linked Broadcast Array Hub
-32128	LCO Partially Constructed Megathron
-32129	LCO Small Armory
-32131	LCO Starbase Capital Shipyard
-32132	LCO Starbase Hangar
-32133	LCO Megathron
-32134	LCO Thorax
-32135	LCO Occator
-32136	LCO Incursus
-32137	LCO Obelisk
+32128	Fortified Partially Constructed Megathron
+32129	Small Armory
+32131	Fortified Starbase Capital Shipyard
+32132	Fortified Starbase Hangar
+32133	Gallente Megathron Battleship
+32134	Gallente Thorax Cruiser
+32135	Gallente Occator Industrial
+32136	Gallente Incursus Frigate
+32137	Gallente Obelisk Freighter
 32138	Roineron Aviviere's Epithal
 32139	Mourmarie Mone's Helios
 32140	Karde Romu 's Armageddon
@@ -18396,7 +18395,7 @@
 32209	Mimir
 32210	Mimir Blueprint
 32211	Archives
-32216	LCO Amarr Cathedral
+32216	Fortified Amarr Cathedral
 32217	Damaged Radio Telescope
 32218	Encrypted Data Fragment
 32219	Pator 6 HQ
@@ -18445,7 +18444,7 @@
 32271	Business Associate
 32272	Primordial Biomass
 32273	Safe House Ruins
-32275	LCO Amarr Chapel
+32275	Fortified Amarr Chapel
 32276	Office Facility
 32277	Deteis Family
 32278	Hiva Shesha's Shuttle
@@ -18507,8 +18506,8 @@
 32368	Training Container - Salvaging
 32369	Training Container - Data
 32370	Assembly Station DC105-A
-32371	Capital Ship Design  Dictator
-32372	Minedrill  E518 Crew
+32371	Capital Ship Design – “Dictator”
+32372	Minedrill – E518 Crew
 32374	Holoreel GRS-81A
 32375	Proof of Discovery: Gas Passkey
 32376	Proof of Discovery: Gas
@@ -18518,7 +18517,7 @@
 32380	Roden Police Major
 32381	Roden Police Sergeant
 32382	Damaged Caldari Shuttle
-32383	Guristas Dirty' Explosive System
+32383	Guristas ‘Dirty' Explosive System
 32384	Captured Caldari State Shuttle
 32385	Guristas Battleship Vessel
 32386	Violent Wormhole
@@ -18533,7 +18532,7 @@
 32395	Atma Aulato's Falcon
 32396	Arment Caute's Lachesis
 32397	Yada Vinjivas's Gila
-32398	Lieutenant Kipo Foxfire Tekira
+32398	Lieutenant Kipo “Foxfire” Tekira
 32399	Statehood Incarnate Monument
 32400	Angel Frigate Vessel
 32401	Angel Cruiser Vessel
@@ -18542,7 +18541,7 @@
 32404	Cilis Leglise's Headquarters
 32405	Serpentis Research Facility
 32406	Caldari Storage Warehouse
-32407	Holoreel  Torture Log I15B
+32407	Holoreel – Torture Log I15B
 32408	Correspondence Log KL-513
 32409	Aton Hordner's Tempest
 32410	Arajna Ashia's Arbitrator
@@ -18554,11 +18553,11 @@
 32416	Dark Blood Tracking Disruptor
 32417	True Sansha Tracking Disruptor
 32418	Boundless Creations Security Codes
-32419	LCO Charon
-32420	LCO Orca
-32421	LCO Hulk
+32419	Caldari Charon Freighter
+32420	Fortified Orca
+32421	Fortified Hulk
 32422	Advanced Logistics Network
-32423	LCO Kestrel
+32423	Caldari Kestrel Frigate
 32435	Citadel Cruise Missiles
 32436	Scourge Citadel Cruise Missile
 32437	Scourge Citadel Cruise Missile Blueprint
@@ -18902,14 +18901,14 @@
 33038	NEO YC 114: Tinkerhell and Alts
 33039	NEO YC 114: Tengu Terror
 33040	NEO YC 114: Oxygen Isonopes
-33041	NEO YC 114: Africas Finest
+33041	NEO YC 114: Africa‘s Finest
 33042	NEO YC 114: Something Else
 33043	NEO YC 114: The Exiled Gaming
 33044	NEO YC 114: Perihelion Beryllium Duralumin
 33045	NEO YC 114: Goggle Wearing Internet Crime Fighters
-33046	NEO YC 114: ISN  Incursion Shiny Network
+33046	NEO YC 114: ISN – Incursion Shiny Network
 33047	NEO YC 114: Baaaramu
-33048	NEO YC 114: Asine Hitamas team
+33048	NEO YC 114: Asine Hitama‘s team
 33049	NEO YC 114: EFS
 33050	NEO YC 114: Much Crying Old Experts
 33051	NEO YC 114: DeepWater
@@ -19370,8 +19369,8 @@
 33634	Maelstrom Krusual Edition Blueprint
 33635	Hyperion Aliastra Edition
 33636	Hyperion Aliastra Edition Blueprint
-33637	Hyperion Innerzone Shipping Edition
-33638	Hyperion Innerzone Shipping Edition Blueprint
+33637	Hyperion Inner Zone Shipping Edition
+33638	Hyperion Inner Zone Shipping Edition Blueprint
 33639	Omen Kador Edition
 33640	Omen Kador Edition Blueprint
 33641	Omen Tash-Murkon Edition
@@ -19386,8 +19385,8 @@
 33650	Stabber Krusual Edition Blueprint
 33651	Thorax Aliastra Edition
 33652	Thorax Aliastra Edition Blueprint
-33653	Thorax Innerzone Shipping Edition
-33654	Thorax Innerzone Shipping Edition Blueprint
+33653	Thorax Inner Zone Shipping Edition
+33654	Thorax Inner Zone Shipping Edition Blueprint
 33655	Punisher Kador Edition
 33656	Punisher Kador Edition Blueprint
 33657	Punisher Tash-Murkon Edition
@@ -19402,8 +19401,8 @@
 33666	Rifter Krusual Edition Blueprint
 33667	Incursus Aliastra Edition
 33668	Incursus Aliastra Edition Blueprint
-33669	Incursus Innerzone Shipping Edition
-33670	Incursus Innerzone Shipping Edition Blueprint
+33669	Incursus Inner Zone Shipping Edition
+33670	Incursus Inner Zone Shipping Edition Blueprint
 33671	Heavy Hull Maintenance Bot I
 33672	Heavy Hull Maintenance Bot I Blueprint
 33673	Whiptail
@@ -19455,7 +19454,7 @@
 33721	Women's 'Corsair' Heels (blue)
 33722	Women's 'Corsair' Heels (brown)
 33723	Women's 'Corsair' Heels (beige)
-33724	Women's 'Corsair' Heels (beige)
+33724	Women's 'Corsair' Heels (gray)
 33725	Women's 'Corsair' Heels (red)
 33726	Women's 'Sanctity' Dress (black/gold)
 33727	Women's 'Sanctity' Dress (brown/gold)
@@ -19496,10 +19495,10 @@
 33762	QA Mining Laser Upgrade
 33765	Rorqual ORE Development Edition Wreck
 33766	Orca ORE Development Edition Wreck
-33767	Women's 'New Eden Open I' T-shirt YC114
-33768	Women's 'New Eden Open II' T-shirt YC116
-33769	Men's 'New Eden Open I' T-shirt YC114
-33770	Men's 'New Eden Open II' T-shirt YC116
+33767	Women's 'New Eden Open I' T-shirt YC 114
+33768	Women's 'New Eden Open II' T-shirt YC 116
+33769	Men's 'New Eden Open I' T-shirt YC 114
+33770	Men's 'New Eden Open II' T-shirt YC 116
 33771	Men's 'March' Boots (White)
 33772	Men's 'March' Boots (Graphite)
 33773	Men's 'March' Boots (Brown)
@@ -19564,11 +19563,11 @@
 33850	Federation Navy Drone Navigation Computer
 33852	Sentient Drone Navigation Computer
 33856	Expedition Frigates
-33857	??????
-33858	???????
-33864	Mordus Special Warfare Unit Operative
-33865	Mordus Special Warfare Unit Specialist
-33866	Mordus Special Warfare Unit Commander
+33857	泰坦会战遗址
+33858	泰坦会战纪念碑
+33864	Mordu’s Special Warfare Unit Operative
+33865	Mordu’s Special Warfare Unit Specialist
+33866	Mordu’s Special Warfare Unit Commander
 33867	Thukker Component Assembly Array
 33868	Thukker Component Assembly Array Blueprint
 33869	Brutix Serpentis Edition
@@ -19681,8 +19680,462 @@
 33986	Prototype Hyperspatial Accelerator Blueprint
 33987	Guristas Transponder Tower
 33988	Guristas Data Sequence
+33989	Women's 'Hover' Tights (black)
 33990	Tournament Micro Jump Unit
+33992	Accessories/Glasses/Monocle_01/Types/MonocleM01_RightBlack.type
+33993	Accessories/Glasses/Monocle_F_T02/Types/Monocle_F_T02_black_left.type
+33995	Tattoo/ArmLeft/Sleeve01/Types/Sleeve01_F_Left.type
+33996	Tattoo/ArmLeft/Sleeve02/Types/Sleeve02_F_Left.type
+33997	Tattoo/ArmLeft/Sleeve03/Types/Sleeve03_F_Left.type
+33998	Tattoo/ArmLeft/Sleeve06/Types/Sleeve06_F_Left.type
+33999	Tattoo/ArmLeft/Sleeve07/Types/Sleeve07_F_Left.type
+34000	Tattoo/ArmLeft/Sleeve09/Types/Sleeve09_F_Left.type
+34001	Tattoo/ArmLeft/Sleeve10/Types/Sleeve10_F_Left.type
+34002	Tattoo/ArmLeft/Sleeve11/Types/Sleeve11_F_Left.type
+34003	Tattoo/ArmLeft/Sleeve12/Types/Sleeve12_F_Left.type
+34004	Tattoo/ArmLeft/Sleeve13/Types/Sleeve13_F_Left.type
+34005	Tattoo/ArmLeft/Sleeve15/Types/Sleeve15_F_Left.type
+34006	Tattoo/ArmRight/Sleeve01/Type/Sleeve01_F_Right.type
+34007	Tattoo/ArmRight/Sleeve02/Type/Sleeve02_F_Right.type
+34008	Tattoo/ArmRight/Sleeve03/Type/Sleeve03_F_Right.type
+34009	Tattoo/ArmRight/Sleeve06/Type/Sleeve06_F_Right.type
+34010	Tattoo/ArmRight/Sleeve07/Type/Sleeve07_F_Right.type
+34011	Tattoo/ArmRight/Sleeve09/Type/Sleeve09_F_Right.type
+34012	Tattoo/ArmRight/Sleeve10/Type/Sleeve10_F_Right.type
+34013	Tattoo/ArmRight/Sleeve11/Type/Sleeve11_F_Right.type
+34014	Tattoo/ArmRight/Sleeve12/Type/Sleeve12_F_Right.type
+34015	Tattoo/ArmRight/Sleeve13/Type/Sleeve13_F_Right.type
+34016	Tattoo/ArmRight/Sleeve15/Type/Sleeve15_F_Right.type
+34017	Women's 'Vise' Cybernetic Arm (matte black left)
+34018	Women's 'Vise' Cybernetic Arm (black and orange ringed left)
+34019	Women's 'Vise' Cybernetic Arm (black ringed left)
+34020	Women's 'Vise' Cybernetic Arm (black and yellow left)
+34021	Women's 'Vise' Cybernetic Arm (blue and black ringed left)
+34022	Women's 'Vise' Cybernetic Arm (blue and white left)
+34023	Women's 'Vise' Cybernetic Arm (white and gray ringed left)
+34024	Men's 'Crusher' Cybernetic Arm (black and orange left)
+34025	Men's 'Crusher' Cybernetic Arm (black and red left)
+34026	Men's 'Crusher' Cybernetic Arm (black and yellow left)
+34027	Men's 'Crusher' Cybernetic Arm (blue and white left)
+34028	Men's 'Crusher' Cybernetic Arm (green camo left)
+34029	Men's 'Crusher' Cybernetic Arm (green and yellow left)
+34030	Men's 'Crusher' Cybernetic Arm (gunmetal left)
+34031	Women's 'Vise' Cybernetic Arm (matte black right)
+34032	Women's 'Vise' Cybernetic Arm (black and orange ringed right)
+34033	Women's 'Vise' Cybernetic Arm (black ringed right)
+34034	Women's 'Vise' Cybernetic Arm (black and yellow right)
+34035	Women's 'Vise' Cybernetic Arm (blue and black ringed right)
+34036	Women's 'Vise' Cybernetic Arm (blue and white right)
+34037	Women's 'Vise' Cybernetic Arm (white and gray ringed right)
+34038	Men's 'Crusher' Cybernetic Arm (black and orange right)
+34039	Men's 'Crusher' Cybernetic Arm (black and red right)
+34040	Men's 'Crusher' Cybernetic Arm (black and yellow right)
+34041	Men's 'Crusher' Cybernetic Arm (blue and white right)
+34042	Men's 'Crusher' Cybernetic Arm (green camo  right)
+34043	Men's 'Crusher' Cybernetic Arm (green and yellow right)
+34044	Men's 'Crusher' Cybernetic Arm (gunmetal right)
+34045	Women's 'Hover' Tights (light)
+34046	Women's 'Hover' Tights (orange)
+34047	Women's 'Hover' Tights (pink)
+34048	Women's 'Hover' Tights (red)
+34049	Women's 'Hover' Tights (opaque black)
+34050	Women's 'Hover' Tights (opaque blue)
+34051	Women's 'Hover' Tights (opaque gray)
+34052	Women's 'Hover' Tights (matte black)
+34053	Women's 'Hover' Tights (opaque purple)
+34054	Women's 'Hover' Tights (white)
+34055	Women's 'Hover' Tights (yellow)
+34056	Men's 'Nova' Headwear (black)
+34057	Men's 'Tectonic' Headwear (matte black)
+34058	Men's 'Tectonic' Headwear (white)
+34059	Men's 'Nova' Headwear (silver)
+34060	Men's 'Nova' Headwear (gold)
+34061	Men's 'Nova' Headwear (bronze)
+34062	Men's 'Tectonic' Headwear (metal)
+34063	Men's 'Tectonic' Headwear (shiny black)
+34064	Women's 'Aeriform' Headwear (cyan)
+34065	Women's 'Blades' Headwear (gunmetal)
+34066	Women's 'Aeriform' Headwear (blue)
+34067	Women's 'Blades' Headwear (platinum)
+34068	Women's 'Spiderweb' Headwear (black)
+34069	Women's 'Blades' Headwear (gold)
+34070	Women's 'Aeriform' Headwear (orange)
+34071	Women's 'Blades' Headwear (black)
+34072	Women's 'Spiderweb' Headwear (copper)
+34073	Women's 'Spiderweb' Headwear (metallic)
+34074	Women's 'Blades' Headwear (jade)
+34075	hair/Hair_Medium_Hp_01/Types/Hair_Medium_Hp_01_Simple.type
+34076	Women's 'Aeriform' Headwear (clear)
+34077	Women's 'Spiderweb' Headwear (golden)
+34078	Women's 'Aeriform' Headwear (black)
+34079	Feet/SpaceBoots01F/Types/spaceboots01f_black.type
+34080	Women's 'Eternity' Boots (Black/Gold)
+34081	Feet/SpaceBoots01F/Types/spaceboots01f_blue.type
+34082	Feet/SpaceBoots01F/Types/spaceboots01f_brown.type
+34083	Women's 'Eternity' Boots (Olive)
+34084	Feet/SpaceBoots01F/Types/spaceboots01f_orange.type
+34085	Feet/SpaceBoots01F/Types/spaceboots01f_red.type
+34086	Women's 'Eternity' Boots (Black/Red)
+34087	Feet/SpaceBoots01F/Types/spaceboots01f_stealth.type
+34088	Women's 'Eternity' Boots (White)
+34089	Women's 'Eternity' Boots (Yellow)
+34090	Outer/SpaceSuit_Top_01/Types/spacesuit_01_top_f_black.type
+34091	Women's 'Eternity' Suit Top (Black/Gold)
+34092	Outer/SpaceSuit_Top_01/Types/spacesuit_01_top_f_blue.type
+34093	Outer/SpaceSuit_Top_01/Types/spacesuit_01_top_f_brown.type
+34094	Women's 'Eternity' Suit Top (Olive)
+34095	Outer/SpaceSuit_Top_01/Types/spacesuit_01_top_f_orange.type
+34096	Outer/SpaceSuit_Top_01/Types/spacesuit_01_top_f_red.type
+34097	Women's 'Eternity' Suit Top (Black/Red)
+34098	Outer/SpaceSuit_Top_01/Types/spacesuit_01_top_f_stealth.type
+34099	Women's 'Eternity' Suit Top (White)
+34100	Women's 'Eternity' Suit Top (Yellow)
+34101	bottomOuter/SpaceSuit_01/Types/spacesuit_01_f_black.type
+34102	Women's 'Eternity' Suit (Black/Gold)
+34103	bottomOuter/SpaceSuit_01/Types/spacesuit_01_f_blue.type
+34104	bottomOuter/SpaceSuit_01/Types/spacesuit_01_f_brown.type
+34105	Women's 'Eternity' Suit (Olive)
+34106	bottomOuter/SpaceSuit_01/Types/spacesuit_01_f_orange.type
+34107	bottomOuter/SpaceSuit_01/Types/spacesuit_01_f_red.type
+34108	Women's 'Eternity' Suit (Black/Red)
+34109	bottomOuter/SpaceSuit_01/Types/spacesuit_01_f_stealth.type
+34110	Women's 'Eternity' Suit (White)
+34111	Women's 'Eternity' Suit (Yellow)
 34112	Abandoned CRC Monitoring Station
+34118	Megathron Quafe Edition
+34119	Megathron Quafe Edition Blueprint
+34120	Mobile Competitive Vault
+34121	Mobile Competitive Vault Blueprint
+34122	Limited Jump Drive Economizer
+34123	Limited Jump Drive Economizer Blueprint
+34124	Experimental Jump Drive Economizer
+34125	Experimental Jump Drive Economizer Blueprint
+34126	Prototype Jump Drive Economizer
+34127	Prototype Jump Drive Economizer Blueprint
+34132	Pilot's Body Resculpt Certificate
+34133	Multiple Pilot Training Certificate
+34134	Wormhole E004
+34135	Wormhole L005
+34136	Wormhole Z006
+34137	Wormhole M001
+34138	Wormhole C008
+34139	Wormhole G008
+34140	Wormhole Q003
+34141	Burner Dramiel
+34142	Burner Worm
+34143	Burner Daredevil
+34144	Burner Cruor
+34145	Burner Succubus
+34151	Rattlesnake Victory Edition
+34153	Rattlesnake Victory Edition Blueprint
+34154	Burner Burst
+34155	Burner Jaguar
+34156	Men's 'Marshal' Jacket (Caldari)
+34157	Men's 'Marshal' Jacket (Amarr)
+34158	Men's 'Marshal' Jacket (Minmatar)
+34159	Men's 'Marshal' Jacket (Gallente)
+34160	Men's 'Marshal' Jacket (ORE)
+34161	Men's 'Marshal' Jacket (Sisters of EVE)
+34162	Men's 'Marshal' Jacket (Mordu's Legion)
+34163	Men's 'Marshal' Jacket (interBus)
+34164	Men's 'Marshal' Jacket (Angel Cartel)
+34165	Men's 'Marshal' Jacket (Sansha's Nation)
+34166	Men's 'Marshal' Jacket (Blood Raiders)
+34167	Men's 'Marshal' Jacket (Guristas)
+34168	Men's 'Marshal' Jacket (Serpentis)
+34169	Women's 'Gunner' Jacket (Caldari)
+34170	Women's 'Gunner' Jacket (Amarr)
+34171	Women's 'Gunner' Jacket (Minmatar)
+34172	Women's 'Gunner' Jacket (Gallente)
+34173	Women's 'Gunner' Jacket (ORE)
+34174	Women's 'Gunner' Jacket (Sisters of EVE)
+34175	Women's 'Gunner' Jacket (Mordu's Legion)
+34176	Women's 'Gunner' Jacket (interBus)
+34177	Women's 'Gunner' Jacket (Angel Cartel)
+34178	Women's 'Gunner' Jacket (Sansha's Nation)
+34179	Women's 'Gunner' Jacket (Blood Raiders)
+34180	Women's 'Gunner' Jacket (Guristas)
+34181	Women's 'Gunner' Jacket (Serpentis)
+34182	Burner Bantam
+34183	Burner Hawk
+34184	Burner Inquisitor
+34185	Burner Vengeance
+34186	Burner Navitas
+34187	Burner Enyo
+34190	Amarr Battleship Wreck 1
+34191	Amarr Battleship Wreck 2
+34192	Caldari Battleship Wreck 1
+34193	Caldari Battleship Wreck 2
+34194	Gallente Battleship Wreck 1
+34195	Gallente Battleship Wreck 2
+34196	Minmatar Battleship Wreck 1
+34197	Minmatar Battleship Wreck 2
+34201	Accelerant Decryptor
+34202	Attainment Decryptor
+34203	Augmentation Decryptor
+34204	Parity Decryptor
+34205	Process Decryptor
+34206	Symmetry Decryptor
+34207	Optimized Attainment Decryptor
+34208	Optimized Augmentation Decryptor
+34210	Men's 'Quafethron' T-shirt
+34211	Women's 'Quafethron' T-shirt
+34213	Apocalypse Blood Raider Edition
+34214	Apocalypse Blood Raider Edition Blueprint
+34215	Apocalypse Kador Edition
+34216	Apocalypse Kador Edition Blueprint
+34217	Apocalypse Tash-Murkon Edition
+34218	Apocalypse Tash-Murkon Edition Blueprint
+34219	Paladin Blood Raider Edition
+34220	Paladin Blood Raider Edition Blueprint
+34221	Paladin Kador Edition
+34222	Paladin Kador Edition Blueprint
+34223	Paladin Tash-Murkon Edition
+34224	Paladin Tash-Murkon Edition Blueprint
+34225	Raven Guristas Edition
+34226	Raven Guristas Edition Blueprint
+34227	Raven Kaalakiota Edition
+34228	Raven Kaalakiota Edition Blueprint
+34229	Raven Nugoeihuvi Edition
+34230	Raven Nugoeihuvi Edition Blueprint
+34231	Golem Guristas Edition
+34232	Golem Guristas Edition Blueprint
+34233	Golem Kaalakiota Edition
+34234	Golem Kaalakiota Edition Blueprint
+34235	Golem Nugoeihuvi Edition
+34236	Golem Nugoeihuvi Edition Blueprint
+34237	Megathron Police Edition
+34238	Megathron Police Edition Blueprint
+34239	Megathron Inner Zone Shipping Edition
+34240	Megathron Inner Zone Shipping Edition Blueprint
+34241	Kronos Police Edition
+34242	Kronos Police Edition Blueprint
+34243	Kronos Quafe Edition
+34244	Kronos Quafe Edition Blueprint
+34245	Kronos Inner Zone Shipping Edition
+34246	Kronos Inner Zone Shipping Edition Blueprint
+34247	Tempest Justice Edition
+34248	Tempest Justice Edition Blueprint
+34249	Tempest Krusual Edition
+34250	Tempest Krusual Edition Blueprint
+34251	Tempest Nefantar Edition
+34252	Tempest Nefantar Edition Blueprint
+34253	Vargur Justice Edition
+34254	Vargur Justice Edition Blueprint
+34255	Vargur Krusual Edition
+34256	Vargur Krusual Edition Blueprint
+34257	Vargur Nefantar Edition
+34258	Vargur Nefantar Edition Blueprint
+34260	Surgical Warp Disrupt Probe
+34261	Surgical Warp Disrupt Probe Blueprint
+34264	Focused Void Bomb
+34265	Focused Void Bomb Blueprint
+34266	Small Higgs Anchor I
+34267	Small Higgs Anchor I Blueprint
+34268	Medium Higgs Anchor I
+34269	Medium Higgs Anchor I Blueprint
+34271	Test Resistance Small Laser 2
+34272	Polarized Small Pulse Laser
+34273	Polarized Small Pulse Laser Blueprint
+34274	Polarized Heavy Pulse Laser
+34275	Polarized Heavy Pulse Laser Blueprint
+34276	Polarized Mega Pulse Laser
+34277	Polarized Mega Pulse Laser Blueprint
+34278	Polarized Light Neutron Blaster
+34279	Polarized Light Neutron Blaster Blueprint
+34280	Polarized Heavy Neutron Blaster
+34281	Polarized Heavy Neutron Blaster Blueprint
+34282	Polarized Neutron Blaster Cannon
+34283	Polarized Neutron Blaster Cannon Blueprint
+34284	Polarized 200mm AutoCannon
+34285	Polarized 200mm AutoCannon Blueprint
+34286	Polarized 425mm AutoCannon
+34287	Polarized 425mm AutoCannon Blueprint
+34288	Polarized 800mm Repeating Cannon
+34289	Polarized 800mm Repeating Cannon Blueprint
+34290	Polarized Rocket Launcher
+34291	Polarized Rocket Launcher Blueprint
+34292	Polarized Heavy Assault Missile Launcher
+34293	Polarized Heavy Assault Missile Launcher Blueprint
+34294	Polarized Torpedo Launcher
+34295	Polarized Torpedo Launcher Blueprint
+34299	Mangled Storage Depot
+34300	Dented Storage Depot
+34301	Remote Pressure Control Unit
+34302	Plasma Chamber Debris
+34303	Plasma Chamber
+34304	Wrecked Storage Depot
+34305	Remote Defense Grid Unit
+34306	Large Higgs Anchor I
+34307	Large Higgs Anchor I Blueprint
+34308	Capital Higgs Anchor I
+34309	Capital Higgs Anchor I Blueprint
+34310	Unidentified Structure
+34311	Honorary Fabricator-General Baton
+34312	Honorary Brigadier of Engineers Insignia
+34313	Honorary Federal Harbormaster Pennon
+34314	Honorary Fleet Architect Badge
+34315	Hyperfluct Generator
+34316	Damaged Spatial Concealment Chamber
+34317	Confessor
+34318	Confessor Blueprint
+34319	Amarr Tactical Destroyer Defense Mode
+34320	Amarr Tactical Destroyer Defensive Mode Blueprint
+34321	Amarr Tactical Destroyer Sharpshooter Mode
+34322	Amarr Tactical Destroyer Sniper Mode Blueprint
+34323	Amarr Tactical Destroyer Propulsion Mode
+34324	Amarr Tactical Destroyer Speed Mode Blueprint
+34325	Sisters of EVE Logistics Station
+34326	Sisters of EVE Industrial Station
+34327	ORE Freighter
+34328	Bowhead
+34329	Bowhead Blueprint
+34330	Resource Container
+34331	Sun A0IV (Turbulent Blue Subgiant)
+34332	Expedition Command Outpost Wreck
+34333	Cloud Rings
+34334	Planetary Colonization Office Wreck
+34335	Testing Facilities Wreck
+34336	Exotic Specimen Warehouse Wreck
+34337	Circadian Seeker
+34338	Wormhole T458
+34339	Moros Interbus Edition
+34340	Moros Interbus Edition Blueprint
+34341	Naglfar Justice Edition
+34342	Naglfar Justice Edition Blueprint
+34343	Phoenix Wiyrkomi Edition
+34344	Phoenix Wiyrkomi Edition Blueprint
+34345	Revelation Sarum Edition
+34346	Revelation Sarum Edition Blueprint
+34347	Men's 'Outlaw' Jacket (Blood Raiders)
+34348	Men's 'Outlaw' Jacket (Sansha's Nation)
+34349	Men's 'Outlaw' Jacket (Guristas)
+34350	Women's 'Outlaw' Coat (Sansha's Nation)
+34351	Women's 'Outlaw' Coat (Guristas)
+34352	Revenant Wreckage
+34353	Women's 'Outlaw' Coat (Blood Raiders)
+34354	Men's 'Outlaw' Pants (Blood Raiders)
+34355	Men's 'Outlaw' Pants (Sansha's Nation)
+34356	Men's 'Outlaw' Pants (Guristas)
+34357	Women's 'Outlaw' Pants (Blood Raiders)
+34358	Women's 'Outlaw' Pants (Sansha's Nation)
+34359	Women's 'Outlaw' Pants (Guristas)
+34360	Men's 'Outlaw' Boots (Blood Raiders)
+34361	Men's 'Outlaw' Boots (Sansha's Nation)
+34362	Men's 'Outlaw' Boots (Guristas)
+34363	Women's 'Outlaw' Boots (Blood Raiders)
+34364	Women's 'Outlaw' Boots (Sansha's Nation)
+34365	Women's 'Outlaw' Boots (Guristas)
+34366	Wormhole M164
+34367	Wormhole L031
+34368	Wormhole Q063
+34369	Wormhole V898
+34370	Wormhole E587
+34371	Wormhole F353
+34372	Wormhole F135
+34373	Remote Calibration Device - Low Power
+34374	Remote Calibration Device - High Power
+34375	Coordinate Plotting Device
+34378	Intact Storage Depot
+34379	Inactive Sentry Gun
+34381	X-Axis Calibration Coordinate
+34382	Y-Axis Calibration Coordinate
+34383	Z-Axis Calibration Coordinate
+34384	Immobile Tractor Beam
+34385	Pristine Storage Depot
+34386	Impenetrable Storage Depot
+34387	Spatial Rift
+34388	Communication Relay
+34389	Matyrhan Lakat-Hro
+34390	Amarr Tactical Destroyer
+34391	Solray Gamma Alignment Unit
+34392	Bioinformatics Processing Cells
+34393	Men's 'Outlaw' Jacket (Burnt Orange)
+34394	Women's 'Outlaw' Coat (Burnt Orange)
+34395	Amarr Advanced Destroyer Wreck
+34396	Self-Assembling Nanolattice
+34397	Self-Assembling Nanolattice Blueprint
+34398	Solray Infrared Alignment Unit
+34399	Solray Radio Alignment Unit
+34400	Gamma Ray Modulate Disc
+34401	Infrared Ray Modulate Disc
+34402	Radio Ray Modulate Disc
+34403	Solray Observational Unit
+34404	Solray Unaligned Power Terminal
+34405	Solray Aligned Power Terminal
+34406	Remote Reroute Unit
+34412	Small Intact Hull Section
+34414	Small Malfunctioning Hull Section
+34416	Small Wrecked Hull Section
+34417	Manufacturing Union’s Placard
+34418	The Galactic Party Planning Guide
+34419	Jump Fatigue Recovery Agent
+34420	Cooking With Veldspar
+34421	Chribba’s Modified Strip Miner
+34422	Rooks & Kings – The Clarion Call Compilation
+34423	Pre-Completed CSM 10 Ballot Paper
+34424	Titanium Plated Cranial Shielding
+34425	SCC Guidelines – Lotteries For Dummies
+34426	Sort Dragon’s Guide To Diplomacy
+34427	Polaris Eviction Notice
+34428	Jump Portal Generation Instruction Holoreel
+34429	Vincent Pryce’s Warp Disruption Field Generator
+34430	My God, It’s Full Of Holes!
+34431	Guillome Renard’s Sleeper Loot Stash
+34432	Sisters Of EVE Charity Statue
+34433	The Damsel’s Drunk Bodyguard
+34434	Alice Saki’s Good Posting Guide
+34435	Soxfour’s Spaceboots
+34436	The Friend Ship
+34437	Rewired Sentry Gun
+34438	Sentry Repair Station
+34439	Wormhole A009
+34440	Sleeper Medium Wreck 
+34441	Dominix Quafe Edition
+34442	Dominix Quafe Edition Blueprint
+34443	Tristan Quafe Edition
+34444	Tristan Quafe Edition Blueprint
+34445	Vexor Quafe Edition
+34446	Vexor Quafe Edition Blueprint
+34447	Cerebrum Maintenance Chamber
+34448	Smoldering Archive Ruins
+34449	Central Archive Cerebrum
+34450	Intravenous Oscillation Fluid
+34451	Nanoplastic Membrane Patch
+34452	Self-regulating Machine Gears
+34453	Vessel Rejuvenation Battery
+34454	Archive Sentry Tower
+34455	Impaired Archive Sentry Tower
+34456	Angel Fence
+34457	末日沙场级YC117年特别版
+34458	末日沙场级YC117年特别版蓝图
+34459	地狱天使级YC117年特别版
+34460	地狱天使级YC117年特别版蓝图
+34461	马克瑞级YC117年特别版
+34462	马克瑞级YC117年特别版蓝图
+34463	响尾蛇级YC117年特别版
+34464	响尾蛇级YC117年特别版蓝图
+34465	多米尼克斯级YC117年特别版
+34466	多米尼克斯级YC117年特别版蓝图
+34467	万王宝座级YC117年特别版
+34468	万王宝座级YC117年特别版蓝图
+34469	乌鸦级YC117年特别版
+34470	乌鸦级YC117年特别版蓝图
+34471	灾难级YC117年特别版
+34472	灾难级YC117年特别版蓝图
+34473	幼龙级YC117年特别版
+34474	幼龙级YC117年特别版蓝图
+34475	毒蜥级YC117年特别版
+34476	毒蜥级YC117年特别版蓝图
+34477	银鹰级YC117年特别版
+34478	银鹰级YC117年特别版蓝图
+34479	伊什塔级YC117年特别版
+34480	伊什塔级YC117年特别版蓝图
+34481	Domination Inertial Stabilizers
+34483	Shadow Serpentis Inertial Stabilizers
+34485	ORE Reinforced Bulkheads
+34487	Syndicate Reinforced Bulkheads
+34489	ORE Expanded Cargohold
 350916	Plasma Cannon
 351063	Heavy Machine Gun
 351071	Assault C-I
@@ -19806,7 +20259,7 @@
 352556	Sniper Rifle
 352587	Scout G-I
 352588	Logistics M-I
-352591	Frontline
+352591	Frontline - CA
 352592	Militia Amarr Heavy Frame
 352593	Militia Minmatar Medium Frame
 352594	Pilot G-I
@@ -20285,8 +20738,8 @@
 354928	GB-9 Breach Assault Rifle
 354929	GLU-5 Tactical Assault Rifle
 354930	Duvolle Tactical Assault Rifle
-354934	Sniper
-354935	Anti-Armor
+354934	Sniper - CA
+354935	Anti-Armor - CA
 354937	Militia Shotgun
 354941	Militia Caldari Medium Frame
 354949	Drone Hive - Lvl.2
@@ -20683,7 +21136,7 @@
 356515	Handheld weapon needs a name
 356516	Handheld weapon needs a name
 356526	Basic Range Amplifier
-356559	Medic
+356559	Medic - CA
 356562	Advanced Precision Enhancer
 356563	Complex Precision Enhancer
 356564	'Visio' Basic Precision Enhancer
@@ -20845,6 +21298,7 @@
 363578	Ion Pistol
 363592	Bolt Pistol
 363604	Rail Rifle
+363770	Assault Rail Rifle
 363774	Core Seeker Flaylock
 363775	VN-30 Seeker Flaylock
 363780	Core Flaylock Pistol
@@ -21073,18 +21527,18 @@
 364707	Heavy Machine Gun Rapid Reload
 364708	Heavy Machine Gun Sharpshooter
 364709	Heavy Machine Gun Fitting Optimization
-364726	Anti-Armor
-364732	Anti-Armor
-364736	Anti-Armor
-364738	Medic
-364739	Sniper
-364740	Frontline
-364741	Medic
-364742	Sniper
-364743	Frontline
-364744	Medic
-364745	Frontline
-364746	Sniper
+364726	Anti-Armor - AM
+364732	Anti-Armor - GA
+364736	Anti-Armor - MN
+364738	Medic - AM
+364739	Sniper - AM
+364740	Frontline - AM
+364741	Medic - GA
+364742	Sniper - GA
+364743	Frontline - GA
+364744	Medic - MN
+364745	Frontline - MN
+364746	Sniper - MN
 364747	Gallente Marauder
 364748	Caldari Logistics LAV
 364749	Gallente Logistics LAV
@@ -21230,6 +21684,7 @@
 365406	Magsec SMG Proficiency
 365407	Magsec SMG Fitting Optimization
 365408	Magsec SMG Rapid Reload
+365409	Assault Combat Rifle
 365420	'LC-225' Saga-II
 365421	'Harbinger' Amarr Medium Frame A-I
 365424	Reactive Deflection Field I
@@ -21770,3 +22225,158 @@
 367228	Militia Plasma Cannon
 367229	Militia Laser Rifle
 367230	Militia Mass Driver
+367382	Nova Knife Fitting Optimization
+367436	Militia Ion Pistol
+367437	Militia Bolt Pistol
+367439	Militia Magsec SMG
+367440	Militia Heavy Machine Gun
+367442	Frontline Special Issue Mk II-A
+367443	Frontline Special Issue Mk II-C
+367450	Frontline Special Issue Mk II-M
+367451	Frontline Special Issue Mk II-G
+367453	Defender Special Issue Mk II-A
+367455	Defender Special Issue Mk II-C
+367456	Defender Special Issue Mk II-M
+367457	Defender Special Issue Mk II-G
+367472	Militia Flaylock Pistol
+367477	Kubo’s GMK-16 Plasma Cannon
+367489	Beacon’s ELI-74 Swarm Launcher
+367499	Skill Tree Reset and Refund
+367500	Symb's FORK-5 Sniper Rifle
+367502	Agimus' Modified AGO-56 Mass Driver
+367511	Luis' Modified VC-107 Combat Rifle
+367517	Kalante's RXS-05 Assault Rifle
+367519	Ghalag's Modified MRT-17 Rail Rifle
+367528	Darth's GIO-66 Scrambler Rifle
+367541	Viktor’s NEG-1 Laser Rifle
+367548	Alex's Modified ZX-030 Heavy Machine Gun
+367549	Alldin's IMP-10 Forge Gun
+367552	Bons' SIN-7 Shotgun
+367578	Jara Kumora - Contract
+367586	Militia Nova Knives
+367587	Militia Flaylock Pistol Blueprint
+367589	Militia Bolt Pistol Blueprint
+367590	Militia Ion Pistol Blueprint
+367591	Militia Nova Knife Blueprint
+367592	Militia Magsec SMG Blueprint
+367596	Instant Booster 2X
+367597	Instant Booster 3X
+367598	Instant Booster 4X
+367600	APEX 'Dominus' Sentinel
+367621	Militia Scrambler Rifle Blueprint
+367622	Militia Laser Rifle Blueprint
+367623	Militia Rail Rifle Blueprint
+367624	Militia Combat Rifle Blueprint
+367625	Militia Plasma Cannon Blueprint
+367627	Militia Heavy Machine Gun Blueprint
+367628	Militia Forge Gun Blueprint
+367629	Militia Mass Driver Blueprint
+367630	Militia Flux Grenade
+367631	Militia Flux Grenade Blueprint
+367632	Militia AV Grenade
+367633	Militia AV Grenade Blueprint
+367634	'Quafe' Sentinel G-I
+367650	'Quafe' Sentinel C-I
+367651	'Quafe' Sentinel A-I
+367652	'Quafe' Sentinel M-I
+367653	'Quafe' Assault G-I
+367654	'Quafe' Assault A-I
+367655	'Quafe' Assault M-I
+367656	'Quafe' Scout C-I
+367657	'Quafe' Scout A-I
+367658	'Quafe' Scout M-I
+367677	APEX 'Shogun' Sentinel
+367679	APEX 'Atlas' Sentinel
+367681	APEX 'Warlord' Sentinel
+367685	APEX 'Rasetsu' Assault
+367687	APEX 'Spartan' Assault
+367689	APEX 'Nomad' Assault
+367691	APEX 'Opus' Assault
+367693	APEX 'Kampo' Logistics
+367695	APEX 'Chiron' Logistics
+367697	APEX 'Shaman' Logistics
+367699	APEX 'Seraph' Logistics
+367701	APEX 'Hawk' Scout
+367703	APEX 'Serpent' Scout
+367705	APEX 'Tiger' Scout
+367707	APEX 'Dragon' Scout
+367709	APEX 'Samurai' Commando
+367711	APEX 'Centurion' Commando
+367713	APEX 'Renegade' Commando
+367715	APEX 'Paladin' Commando
+367716	Archduke's Modified Sentinel mk.0
+367738	Frame's Modified Assault ck.0
+367742	Scotsman's Modified Scout gk.0
+367751	Logibro's Modified Logistics mk.0
+367760	Rattati's Modified Assault gk.0
+367765	Encrypted Strongbox
+367770	Hacked Decryptor Key
+367777	Basic Decryptor2
+367778	Enhanced Decryptor1
+367779	Complex Decryptor_test
+367811	State 'Shogun' Sentinel
+367813	Republic Assault Combat Rifle
+367843	mission_reroll
+367845	instant_booster4
+367848	Federation Burst Assault Rifle
+367854	Imperial 'Opus' Assault
+367856	Republic 'Shaman' Logistics
+367863	Federation 'Serpent' Scout
+367864	Federation 'Centurion' Commando
+367885	Storm Raider's Modified Commando ak.0
+367895	Archduke's Modified Sentinel mk.0 (Master)
+367896	Logibro's Modified Logistics mk.0 (Master)
+367897	Rattati's Modified Assault gk.0 (Master)
+367898	Storm Raider's Modified Commando ak.0 (Master)
+367899	Frame's Modified Assault ck.0 (Master)
+367900	Scotsman's Modified Scout gk.0 (Master)
+367948	Federation 'Atlas' Sentinel
+367955	State 'Rasetsu' Assault
+367959	Imperial 'Seraph' Logistics
+367960	Republic 'Tiger' Scout
+367963	Republic 'Renegade' Commando
+367987	APEX 'Atlas' Sentinel vX.1
+367988	APEX 'Nomad' Assault vX.1
+367989	APEX 'Dragon' Scout vX.1
+367992	Militia Assault Combat Rifle
+367994	Militia Assault Scrambler Rifle
+367996	Militia Assault Rail Rifle
+367998	Republic 'Warlord' Sentinel
+367999	Federation 'Spartan' Assault
+368000	State 'Kampo' Logistics
+368001	Imperial 'Dragon' Scout
+368003	Imperial 'Paladin' Commando
+368014	Imperial Assault Scrambler Rifle
+368015	State Assault Rail Rifle
+368016	Federation Breach Assault Rifle
+368022	Imperial 'Dominus' Sentinel
+368023	Republic 'Nomad' Assault
+368024	Federation 'Chiron' Logistics
+368025	State 'Hawk' Scout
+368026	State 'Samurai' Commando
+368061	Amarr Combat Standard Loadout
+368062	Amarr Combat Advanced Loadout
+368064	Gallente Combat Standard Loadout
+368065	Gallente Combat Advanced Loadout
+368066	Minmatar Combat Standard Loadout
+368067	Minmatar Combat Advanced Loadout
+368069	Caldari Combat Standard Loadout
+368071	Caldari Combat Advanced Loadout
+368242	Boundless Packed Remote Explosive
+368243	Packed Remote Explosive
+368244	F/45 Packed Remote Explosive
+368245	X-MS15 Snowball Launcher
+368518	CreoDron Methana vX.1
+368519	X-MS Snowball Launcher
+368524	Imperial Scout A-I
+368574	Imperial Scout A/1-Series
+368579	Imperial Scout ak.0
+368586	State Scout C-I
+368594	State Scout C/1-Series
+368614	State Scout ck.0
+368615	State Commando C-I
+368616	State Commando C/1-Series
+368617	State Commando ck.0
+368618	State Sentinel C-I
+368619	State Sentinel C/1-Series
+368620	State Sentinel ck.0

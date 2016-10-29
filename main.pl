@@ -6,6 +6,13 @@ use JSON qw( decode_json );
 use Data::Dumper;
 use List::Util qw[min max];
 
+if ($firstarg eq "--cron")
+{
+        $runascron = 1;
+} else {
+        $runascron = 0;
+}
+
 
 my @alliance_Options = ("no-items","no-attackers");
 my $alliance_LastKillId = 49150241;
@@ -174,6 +181,10 @@ while (1) {
     checkForNewKills();
     my $end = time;
     my $lasted = $end - $start;
+    if ($runascron) {
+        exit;
+    }
+
     if ($lasted < $timeout) {  
 	print "sleeping...\n";
         sleep($timeout - $lasted);
@@ -532,7 +543,7 @@ sub sendToSlack
 	if ($resp->is_success)
 	{
 	    my $message = $resp->decoded_content;
-	    print time.": Sent message to Slack successfully\n";
+	    print "  " . time .": Sent message to Slack successfully\n";
 	    #print "Received reply: $message\n";
 	}
 	else

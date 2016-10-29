@@ -6,6 +6,9 @@ use JSON qw( decode_json );
 use Data::Dumper;
 use List::Util qw[min max];
 
+my $runascron;
+my $firstarg = shift;
+
 if ($firstarg eq "--cron")
 {
         $runascron = 1;
